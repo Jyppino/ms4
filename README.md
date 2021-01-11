@@ -1,4 +1,6 @@
 # Project Multimedia Services - Group MS4
+## NOT MAINTAINED - OLD PROJECT FROM 2018
+
 A project commissioned by Delft University of Technology and the National Library of the Netherlands.
 
 The aim of the multimedia context project 2018 is to ease this process of digitizing book catalogs. We will create a generic web service that allows clients to effortlessly create a digital overview of their collection. Furthermore, the system will provide additional services related to the management and social aspects of book owning. Such services include automatic importing of books, recommendations based on your collection and sharing your library with others. 
