@@ -1,0 +1,89 @@
+.card {
+    border: 1px solid #d1d5d6;
+    border-radius: 0px 8px 8px 0px;
+    width: '1%';
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,.15);
+    overflow: hidden;
+    background-color: #ecf0f1;
+    width: 175px; /* Change this along with the .cover width */
+}
+
+.card:hover {
+    box-shadow: 0 4px 16px 0 rgba(0,0,0,.3);
+    transition: all 300ms ease;
+}
+
+.card:hover .cover {
+    -webkit-filter: brightness(70%);
+    transition: all 300ms ease;
+    z-index:-1;
+}
+
+.card:hover .title {
+    text-decoration: underline;
+}
+
+.cardContent {
+    height: auto;
+    color: #2c3e50;
+    overflow: hidden;
+}
+
+.cover {
+    overflow: hidden;
+    height: 240px;
+    width: 175px; /* Should be the same as the card width */
+    object-fit: cover;
+}
+
+.info {
+    padding: 5% 5% 5% 10%;
+}
+
+.title {
+    font-size: 1em;
+    font-weight: 700;
+
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+    text-overflow: ellipsis;
+}
+
+.author {
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+    text-overflow: ellipsis;
+
+    font-weight: 400;
+    font-size: 0.8em;
+    text-overflow: ellipsis;
+    font-style: italic;
+}
+
+.book-icon {
+  position: absolute;
+  color: white;
+  font-size: 32px;
+  padding: 15px;
+  opacity: 0;
+}
+
+.material-icons:hover {
+  cursor: pointer;
+}
+
+.card:hover .material-icons {
+  opacity: 0.9;
+  z-index: 999;
+  transition: all 300ms ease;
+}
+
+.left-icon {
+  left: 10px;
+}
+
+.right-icon {
+  right: 22px;
+}

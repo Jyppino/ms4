@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key>
+      <![CDATA[k2XjsbH1V1JBKR7LyAXg]]>
+    </key>
+    <method>
+      <![CDATA[user_show]]>
+    </method>
+  </Request>
+  <user>
+    <id>81596543</id>
+    <name>MyShelf</name>
+    <user_name></user_name>
+    <link>
+      <![CDATA[https://www.goodreads.com/user/show/81596543-myshelf]]>
+    </link>
+    <image_url>
+      <![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]>
+    </image_url>
+    <small_image_url>
+      <![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+    </small_image_url>
+    <about></about>
+    <age></age>
+    <gender></gender>
+    <location>Delft, 11, Netherlands</location>
+    <website></website>
+    <joined>05/2018</joined>
+    <last_active>05/2018</last_active>
+    <interests></interests>
+    <favorite_books></favorite_books>
+    <favorite_authors></favorite_authors>
+    <updates_rss_url>
+      <![CDATA[https://www.goodreads.com/user/updates_rss/81596543?key=e-1Mrcqmw9vCgQI30FRPpuvBR5H20fhxhS6fcDKcmox2Bbf7]]>
+    </updates_rss_url>
+    <reviews_rss_url>
+      <![CDATA[https://www.goodreads.com/review/list_rss/81596543?key=e-1Mrcqmw9vCgQI30FRPpuvBR5H20fhxhS6fcDKcmox2Bbf7&shelf=%23ALL%23]]>
+    </reviews_rss_url>
+    <friends_count type="integer">0</friends_count>
+    <groups_count>0</groups_count>
+    <reviews_count type="integer">27</reviews_count>
+    <user_shelves type="array">
+      <user_shelf>
+        <id type="integer">265667210</id>
+        <name>read</name>
+        <book_count type="integer">20</book_count>
+        <exclusive_flag type="boolean">true</exclusive_flag>
+        <description nil="true"/>
+        <sort nil="true"/>
+        <order nil="true"/>
+        <per_page type="integer" nil="true"/>
+        <display_fields></display_fields>
+        <featured type="boolean">true</featured>
+        <recommend_for type="boolean">false</recommend_for>
+        <sticky type="boolean" nil="true"/>
+      </user_shelf>
+      <user_shelf>
+        <id type="integer">265667209</id>
+        <name>currently-reading</name>
+        <book_count type="integer">2</book_count>
+        <exclusive_flag type="boolean">true</exclusive_flag>
+        <description nil="true"/>
+        <sort nil="true"/>
+        <order nil="true"/>
+        <per_page type="integer" nil="true"/>
+        <display_fields></display_fields>
+        <featured type="boolean">false</featured>
+        <recommend_for type="boolean">false</recommend_for>
+        <sticky type="boolean" nil="true"/>
+      </user_shelf>
+      <user_shelf>
+        <id type="integer">265667208</id>
+        <name>to-read</name>
+        <book_count type="integer">5</book_count>
+        <exclusive_flag type="boolean">true</exclusive_flag>
+        <description nil="true"/>
+        <sort nil="true"/>
+        <order nil="true"/>
+        <per_page type="integer" nil="true"/>
+        <display_fields></display_fields>
+        <featured type="boolean">false</featured>
+        <recommend_for type="boolean">true</recommend_for>
+        <sticky type="boolean" nil="true"/>
+      </user_shelf>
+      <user_shelf>
+        <id type="integer">266337597</id>
+        <name>personal</name>
+        <book_count type="integer">13</book_count>
+        <exclusive_flag type="boolean">false</exclusive_flag>
+        <description nil="true"/>
+        <sort nil="true"/>
+        <order nil="true"/>
+        <per_page type="integer" nil="true"/>
+        <display_fields></display_fields>
+        <featured type="boolean">false</featured>
+        <recommend_for type="boolean">true</recommend_for>
+        <sticky type="boolean" nil="true"/>
+      </user_shelf>
+    </user_shelves>
+    <updates type="array">
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2402492671">Harry Potter: The Prequel (Harry Potter, #0.5)</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2365944001</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Fri, 25 May 2018 08:02:18 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2365944001</id>
+            <review_id type="integer">2402492671</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status nil="true"/>
+            <status>to-read</status>
+            <updated_at type="datetime">2018-05-25T15:02:18+00:00</updated_at>
+            <review>
+              <id type="integer">2402492671</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">8933944</book_id>
+              <rating type="integer">0</rating>
+              <read_status>to-read</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review nil="true"/>
+              <recommendation nil="true"/>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-25T15:02:18+00:00</updated_at>
+              <created_at type="datetime">2018-05-25T15:02:17+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">0</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes nil="true"/>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1 nil="true"/>
+              <work_id type="integer">13810543</work_id>
+              <read_count type="integer">0</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime" nil="true"/>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-25T15:02:18+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">8933944</id>
+                <work_id type="integer">13810543</work_id>
+                <isbn>1156923441</isbn>
+                <isbn13>9781156923443</isbn13>
+                <title>Harry Potter: The Prequel (Harry Potter, #0.5)</title>
+                <sort_by_title>harry potter: the prequel (harry potter, #0.5)</sort_by_title>
+                <author_id type="integer">1077326</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description nil="true"/>
+                <format>ebook</format>
+                <publication_year type="integer">2008</publication_year>
+                <publication_month type="integer">6</publication_month>
+                <publication_day type="integer">11</publication_day>
+                <num_pages type="integer">4</num_pages>
+                <publisher>Books LLC</publisher>
+                <language_code>eng</language_code>
+                <edition_information nil="true"/>
+                <url nil="true"/>
+                <source_url nil="true"/>
+                <image_uploaded_at type="datetime">2016-03-02T04:54:17+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2016-03-02T04:54:17+00:00</s3_image_at>
+                <reviews_count type="integer">53501</reviews_count>
+                <ratings_sum type="integer">60596</ratings_sum>
+                <ratings_count type="integer">14387</ratings_count>
+                <text_reviews_count type="integer">835</text_reviews_count>
+                <book_authors_count type="integer">0</book_authors_count>
+                <updated_at type="datetime">2017-12-24T13:18:07+00:00</updated_at>
+                <created_at type="datetime">2010-08-19T17:57:24+00:00</created_at>
+                <author_id_updater_user_id type="integer">4353218</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer" nil="true"/>
+                <description_updater_user_id type="integer">27358977</description_updater_user_id>
+                <edition_information_updater_user_id type="integer" nil="true"/>
+                <format_updater_user_id type="integer">22755036</format_updater_user_id>
+                <image_updater_user_id type="integer">14492119</image_updater_user_id>
+                <isbn_updater_user_id type="integer">-30</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">-110</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">4353218</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">43069505</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">4353218</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">-30</publisher_updater_user_id>
+                <title_updater_user_id type="integer">14492119</title_updater_user_id>
+                <url_updater_user_id type="integer">66648866</url_updater_user_id>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">1077326</id>
+                  <name>J.K. Rowling</name>
+                  <updated_at type="datetime">2018-05-29T09:41:38+00:00</updated_at>
+                  <created_at type="datetime">2007-12-28T21:03:34+00:00</created_at>
+                  <searched_for_at type="datetime">2008-01-03T06:12:50+00:00</searched_for_at>
+                  <image_uploaded_at type="datetime">2017-11-11T21:18:43+00:00</image_uploaded_at>
+                  <user_id type="integer" nil="true"/>
+                  <gender>F</gender>
+                  <country_code>GB</country_code>
+                  <born_at type="date">1965-07-31</born_at>
+                  <died_at type="datetime" nil="true"/>
+                  <about>See also: [a:Robert Galbraith|383606] Although she writes under the pen name &lt;b&gt;J.K. Rowling&lt;/b&gt;, pronounced like &lt;i&gt;rolling&lt;/i&gt;, her name when her first &lt;i&gt;Harry Potter&lt;/i&gt; book was published was simply
+                    &lt;b&gt;Joanne Rowling&lt;/b&gt;. Anticipating that the target audience of young boys might not want to read a book written by a woman, her publishers demanded that she use two initials, rather than her full name. As she had no middle name, she
+                    chose &lt;b&gt;K&lt;/b&gt; as the second initial of her pen name, from her paternal grandmother Kathleen Ada Bulgen Rowling. She calls herself &lt;b&gt;Jo&lt;/b&gt; and has said, "No one ever called me 'Joanne' when I was young, unless they were
+                    angry." Following her marriage, she has sometimes used the name &lt;b&gt;Joanne Murray&lt;/b&gt; when conducting personal business. During the Leveson Inquiry she gave evidence under the name of &lt;b&gt;Joanne Kathleen Rowling&lt;/b&gt;. In a 2012
+                    interview, Rowling noted that she no longer cared that people pronounced her name incorrectly. Rowling was born to Peter James Rowling, a Rolls-Royce aircraft engineer, and Anne Rowling (née Volant), on 31 July 1965 in Yate, Gloucestershire, England,
+                    10 miles (16 km) northeast of Bristol. Her mother Anne was half-French and half-Scottish. Her parents first met on a train departing from King's Cross Station bound for Arbroath in 1964. They married on 14 March 1965. Her mother's maternal
+                    grandfather, Dugald Campbell, was born in Lamlash on the Isle of Arran. Her mother's paternal grandfather, Louis Volant, was awarded the Croix de Guerre for exceptional bravery in defending the village of Courcelles-le-Comte during the First World
+                    War. Rowling's sister Dianne was born at their home when Rowling was 23 months old. The family moved to the nearby village Winterbourne when Rowling was four. She attended St Michael's Primary School, a school founded by abolitionist William
+                    Wilberforce and education reformer Hannah More. Her headmaster at St Michael's, Alfred Dunn, has been suggested as the inspiration for the &lt;i&gt;Harry Potter&lt;/i&gt; headmaster Albus Dumbledore. As a child, Rowling often wrote fantasy stories,
+                    which she would usually then read to her sister. She recalls that: "I can still remember me telling her a story in which she fell down a rabbit hole and was fed strawberries by the rabbit family inside it. Certainly the first story I ever wrote down
+                    (when I was five or six) was about a rabbit called Rabbit. He got the measles and was visited by his friends, including a giant bee called Miss Bee." At the age of nine, Rowling moved to Church Cottage in the Gloucestershire village of Tutshill,
+                    close to Chepstow, Wales. When she was a young teenager, her great aunt, who Rowling said "taught classics and approved of a thirst for knowledge, even of a questionable kind," gave her a very old copy of Jessica Mitford's autobiography,
+                    &lt;i&gt;Hons and Rebels&lt;/i&gt;. Mitford became Rowling's heroine, and Rowling subsequently read all of her books. Rowling has said of her teenage years, in an interview with The New Yorker, "I wasn’t particularly happy. I think it’s a dreadful
+                    time of life." She had a difficult homelife; her mother was ill and she had a difficult relationship with her father (she is no longer on speaking terms with him). She attended secondary school at Wyedean School and College, where her mother had
+                    worked as a technician in the science department. Rowling said of her adolescence, "Hermione [a bookish, know-it-all &lt;i&gt;Harry Potter&lt;/i&gt; character] is loosely based on me. She's a caricature of me when I was eleven, which I'm not
+                    particularly proud of." Steve Eddy, who taught Rowling English when she first arrived, remembers her as "not exceptional" but "one of a group of girls who were bright, and quite good at English." Sean Harris, her best friend in the Upper Sixth owned
+                    a turquoise Ford Anglia, which she says inspired the one in her books.</about>
+                  <uploader_user_id type="integer">14059993</uploader_user_id>
+                  <image_copyright>https://i.guim.co.uk/img/media/6bb4cf16fc0474bb7e199c7ce0b2575b0740d3c4/0_0_3744_4681/master/3744.jpg?w=1920&amp;q=85&amp;auto=format&amp;sharp=10&amp;s=a2340ddef3b2793cd8b03e4fb842cfa5</image_copyright>
+                  <influences>[a:Jane Austen|1265], [a:Geoffrey Chaucer|1838], [a:Oscar Wilde|3565], [a:C.S. Lewis|1069006]</influences>
+                  <url>http://www.jkrowling.com</url>
+                  <genre1>Fiction</genre1>
+                  <genre2>Young-adult</genre2>
+                  <genre3>Fantasy</genre3>
+                  <books_count type="integer">4460</books_count>
+                  <reviews_count type="integer">26049940</reviews_count>
+                  <ratings_sum type="integer">87562599</ratings_sum>
+                  <works_count type="integer">183</works_count>
+                  <hometown>Yate, South Gloucestershire, England</hometown>
+                  <rating_dist>5:1790645|4:985580|3:445251|2:91064|1:33493|total:334603</rating_dist>
+                  <s3_image_at type="datetime" nil="true"/>
+                  <ratings_count type="integer">19717519</ratings_count>
+                  <text_reviews_count type="integer">478065</text_reviews_count>
+                  <author_program_at type="datetime" nil="true"/>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">101527</fanships_count>
+                  <best_book_id type="integer">3</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>rowling, j.k.</sort_by_name>
+                  <shelf_display_name>Rowling, J.K.</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[is currently reading <a only_path="false" href="https://www.goodreads.com/review/show/2402411542">The Grand Sophy</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2365838718</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Fri, 25 May 2018 06:17:14 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2365838718</id>
+            <review_id type="integer">2402411542</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status nil="true"/>
+            <status>currently-reading</status>
+            <updated_at type="datetime">2018-05-25T13:17:14+00:00</updated_at>
+            <review>
+              <id type="integer">2402411542</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">261689</book_id>
+              <rating type="integer">0</rating>
+              <read_status>currently-reading</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review nil="true"/>
+              <recommendation nil="true"/>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-25T13:17:14+00:00</updated_at>
+              <created_at type="datetime">2018-05-25T13:17:14+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">0</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes nil="true"/>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1 nil="true"/>
+              <work_id type="integer">3234291</work_id>
+              <read_count type="integer">1</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime">2018-05-25T13:17:14+00:00</started_at>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-25T13:17:14+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">261689</id>
+                <work_id type="integer">3234291</work_id>
+                <isbn>0099465639</isbn>
+                <isbn13>9780099465638</isbn13>
+                <title>The Grand Sophy</title>
+                <sort_by_title>grand sophy, the</sort_by_title>
+                <author_id type="integer">18067</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description nil="true"/>
+                <format>Paperback</format>
+                <publication_year type="integer">2004</publication_year>
+                <publication_month type="integer">6</publication_month>
+                <publication_day type="integer">3</publication_day>
+                <num_pages type="integer">328</num_pages>
+                <publisher>Arrow</publisher>
+                <language_code>eng</language_code>
+                <edition_information nil="true"/>
+                <url nil="true"/>
+                <source_url nil="true"/>
+                <image_uploaded_at type="datetime">2014-10-31T05:03:42+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2015-05-16T15:26:05+00:00</s3_image_at>
+                <reviews_count type="integer">33427</reviews_count>
+                <ratings_sum type="integer">72854</ratings_sum>
+                <ratings_count type="integer">17520</ratings_count>
+                <text_reviews_count type="integer">1979</text_reviews_count>
+                <book_authors_count type="integer">0</book_authors_count>
+                <updated_at type="datetime">2017-06-27T06:21:49+00:00</updated_at>
+                <created_at type="datetime">2007-03-07T01:00:44+00:00</created_at>
+                <author_id_updater_user_id type="integer">-57</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer">2622223</author_role_updater_user_id>
+                <description_updater_user_id type="integer">1478426</description_updater_user_id>
+                <edition_information_updater_user_id type="integer" nil="true"/>
+                <format_updater_user_id type="integer">-57</format_updater_user_id>
+                <image_updater_user_id type="integer">18436601</image_updater_user_id>
+                <isbn_updater_user_id type="integer">-57</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">-57</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">18436601</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">7361989</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">-57</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">-57</publisher_updater_user_id>
+                <title_updater_user_id type="integer">5986596</title_updater_user_id>
+                <url_updater_user_id type="integer" nil="true"/>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">18067</id>
+                  <name>Georgette Heyer</name>
+                  <updated_at type="datetime">2018-05-29T06:53:15+00:00</updated_at>
+                  <created_at type="datetime">2007-01-09T09:46:20+00:00</created_at>
+                  <searched_for_at type="datetime">2007-03-12T09:16:58+00:00</searched_for_at>
+                  <image_uploaded_at type="datetime">2012-05-11T15:08:12+00:00</image_uploaded_at>
+                  <user_id type="integer" nil="true"/>
+                  <gender>F</gender>
+                  <country_code>GB</country_code>
+                  <born_at type="date">1902-08-16</born_at>
+                  <died_at type="date">1974-07-04</died_at>
+                  <about>Georgette Heyer was a prolific historical romance and detective fiction novelist. Her writing career began in 1921, when she turned a story for her younger brother into the novel [b: The Black Moth|311322]. In 1925 she married George Ronald
+                    Rougier, a mining engineer, and he often provided basic plot outlines for her thrillers. Beginning in 1932, Heyer released one romance novel and one thriller each year. Heyer was an intensely private person who remained a best selling author all her
+                    life without the aid of publicity. She made no appearances, never gave an interview and only answered fan letters herself if they made an interesting historical point. She sometimes wrote under the pseudonym Stella Martin. Her Regencies were inspired
+                    by [a: Jane Austen|1265], but unlike Austen, who wrote about and for the times in which she lived, Heyer was forced to include copious information about the period so that her readers would understand the setting. While some critics thought her
+                    novels were too detailed, others considered the level of detail to be Heyer's greatest asset. Heyer remains a popular and much-loved author, known for essentially establishing the historical romance genre and its subgenre Regency romance.</about>
+                  <uploader_user_id type="integer">4615387</uploader_user_id>
+                  <image_copyright>http://www.georgette-heyer.com/who.html</image_copyright>
+                  <influences></influences>
+                  <url></url>
+                  <genre1>Romance</genre1>
+                  <genre2>Historical Fiction</genre2>
+                  <genre3>Mystery &amp; Thrillers</genre3>
+                  <books_count type="integer">2361</books_count>
+                  <reviews_count type="integer">509706</reviews_count>
+                  <ratings_sum type="integer">1226696</ratings_sum>
+                  <works_count type="integer">100</works_count>
+                  <hometown></hometown>
+                  <rating_dist>5:13243|4:19376|3:15629|2:3527|1:726|total:52501</rating_dist>
+                  <s3_image_at type="datetime">2015-05-14T23:00:42+00:00</s3_image_at>
+                  <ratings_count type="integer">314391</ratings_count>
+                  <text_reviews_count type="integer">26156</text_reviews_count>
+                  <author_program_at type="datetime" nil="true"/>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">1960</fanships_count>
+                  <best_book_id type="integer">261689</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>heyer, georgette</sort_by_name>
+                  <shelf_display_name>Heyer, Georgette</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2402389691">The Art of Thinking Clearly</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2365809219</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Fri, 25 May 2018 05:42:31 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2365809219</id>
+            <review_id type="integer">2402389691</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status nil="true"/>
+            <status>to-read</status>
+            <updated_at type="datetime">2018-05-25T12:42:31+00:00</updated_at>
+            <review>
+              <id type="integer">2402389691</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">16248196</book_id>
+              <rating type="integer">0</rating>
+              <read_status>to-read</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review nil="true"/>
+              <recommendation nil="true"/>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-25T12:42:31+00:00</updated_at>
+              <created_at type="datetime">2018-05-25T12:42:31+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">0</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes nil="true"/>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1 nil="true"/>
+              <work_id type="integer">18183653</work_id>
+              <read_count type="integer">0</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime" nil="true"/>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-25T12:42:31+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">16248196</id>
+                <work_id type="integer">18183653</work_id>
+                <isbn>0062219685</isbn>
+                <isbn13>9780062219688</isbn13>
+                <title>The Art of Thinking Clearly</title>
+                <sort_by_title>art of thinking clearly, the</sort_by_title>
+                <author_id type="integer">695505</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description nil="true"/>
+                <format>Hardcover</format>
+                <publication_year type="integer">2013</publication_year>
+                <publication_month type="integer">5</publication_month>
+                <publication_day type="integer">14</publication_day>
+                <num_pages type="integer">384</num_pages>
+                <publisher>Harper</publisher>
+                <language_code>eng</language_code>
+                <edition_information nil="true"/>
+                <url nil="true"/>
+                <source_url nil="true"/>
+                <image_uploaded_at type="datetime">2013-04-01T20:31:07+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2015-06-16T03:05:14+00:00</s3_image_at>
+                <reviews_count type="integer">38091</reviews_count>
+                <ratings_sum type="integer">37772</ratings_sum>
+                <ratings_count type="integer">9933</ratings_count>
+                <text_reviews_count type="integer">829</text_reviews_count>
+                <book_authors_count type="integer">0</book_authors_count>
+                <updated_at type="datetime">2018-01-12T21:59:04+00:00</updated_at>
+                <created_at type="datetime">2012-12-05T19:34:27+00:00</created_at>
+                <author_id_updater_user_id type="integer">-47</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer">-9</author_role_updater_user_id>
+                <description_updater_user_id type="integer">66648866</description_updater_user_id>
+                <edition_information_updater_user_id type="integer" nil="true"/>
+                <format_updater_user_id type="integer">-47</format_updater_user_id>
+                <image_updater_user_id type="integer">-51</image_updater_user_id>
+                <isbn_updater_user_id type="integer">-47</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">-47</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">66648866</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">-47</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">-47</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">-47</publisher_updater_user_id>
+                <title_updater_user_id type="integer">-47</title_updater_user_id>
+                <url_updater_user_id type="integer" nil="true"/>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">695505</id>
+                  <name>Rolf Dobelli</name>
+                  <updated_at type="datetime">2018-05-28T22:21:59+00:00</updated_at>
+                  <created_at type="datetime">2007-07-10T23:09:31+00:00</created_at>
+                  <searched_for_at type="datetime">2008-01-06T09:18:33+00:00</searched_for_at>
+                  <image_uploaded_at type="datetime">2012-12-17T08:12:56+00:00</image_uploaded_at>
+                  <user_id type="integer" nil="true"/>
+                  <gender>M</gender>
+                  <country_code>CH</country_code>
+                  <born_at type="date">1966-07-15</born_at>
+                  <died_at type="datetime" nil="true"/>
+                  <about>Rolf Dobelli is a Swiss author and businessman. He began his writing career as a novelist in 2002, but he is best known internationally for his bestselling non-fiction The Art of Thinking Clearly (2011, English 2013), for which The Times has
+                    called him "the self-help guru the Germans love".</about>
+                  <uploader_user_id type="integer">5061549</uploader_user_id>
+                  <image_copyright>taken from Wikipedia http://en.wikipedia.org/wiki/File:Rolf_dobelli_2010.jpg Own work Rolf Dobelli, Christof Schürpf, Diogenes Verlag Licence info: I, the copyright holder of this work, hereby
+                  </image_copyright>
+                  <influences></influences>
+                  <url>http://dobelli.com/</url>
+                  <genre1>Non-fiction</genre1>
+                  <genre2></genre2>
+                  <genre3></genre3>
+                  <books_count type="integer">162</books_count>
+                  <reviews_count type="integer">50528</reviews_count>
+                  <ratings_sum type="integer">56992</ratings_sum>
+                  <works_count type="integer">16</works_count>
+                  <hometown>Luzern</hometown>
+                  <rating_dist>5:1|4:1|3:5|2:1|1:0|total:8</rating_dist>
+                  <s3_image_at type="datetime">2015-05-15T00:19:41+00:00</s3_image_at>
+                  <ratings_count type="integer">14896</ratings_count>
+                  <text_reviews_count type="integer">1354</text_reviews_count>
+                  <author_program_at type="datetime" nil="true"/>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">29</fanships_count>
+                  <best_book_id type="integer">16248196</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>dobelli, rolf</sort_by_name>
+                  <shelf_display_name>Dobelli, Rolf</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[started reading <a only_path="false" href="https://www.goodreads.com/review/show/2387374370">1984</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2365799592</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Fri, 25 May 2018 05:30:35 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2365799592</id>
+            <review_id type="integer">2387374370</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status>read</old_status>
+            <status>currently-reading</status>
+            <updated_at type="datetime">2018-05-25T12:30:35+00:00</updated_at>
+            <review>
+              <id type="integer">2387374370</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">5470</book_id>
+              <rating type="integer">4</rating>
+              <read_status>currently-reading</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review>Great book!</review>
+              <recommendation></recommendation>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-25T12:30:35+00:00</updated_at>
+              <created_at type="datetime">2018-05-10T10:03:22+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">36</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes></notes>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1></recommender_user_name1>
+              <work_id type="integer">153313</work_id>
+              <read_count type="integer">2</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime">2018-05-25T12:30:35+00:00</started_at>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-25T12:30:35+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">5470</id>
+                <work_id type="integer">153313</work_id>
+                <isbn>0451524934</isbn>
+                <isbn13>9780451524935</isbn13>
+                <title>1984</title>
+                <sort_by_title>1984</sort_by_title>
+                <author_id type="integer">3706</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description nil="true"/>
+                <format>Mass Market Paperback</format>
+                <publication_year type="integer">1950</publication_year>
+                <publication_month type="integer">7</publication_month>
+                <publication_day type="integer">1</publication_day>
+                <num_pages type="integer">328</num_pages>
+                <publisher>New American Library</publisher>
+                <language_code>eng</language_code>
+                <edition_information>Signet Classics</edition_information>
+                <url nil="true"/>
+                <source_url nil="true"/>
+                <image_uploaded_at type="datetime">2012-09-30T07:36:06+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2015-05-16T14:52:07+00:00</s3_image_at>
+                <reviews_count type="integer">3174441</reviews_count>
+                <ratings_sum type="integer">9049315</ratings_sum>
+                <ratings_count type="integer">2180774</ratings_count>
+                <text_reviews_count type="integer">40943</text_reviews_count>
+                <book_authors_count type="integer">-1</book_authors_count>
+                <updated_at type="datetime">2017-12-13T21:13:31+00:00</updated_at>
+                <created_at type="datetime">2006-12-07T20:12:07+00:00</created_at>
+                <author_id_updater_user_id type="integer">3569135</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer">3569135</author_role_updater_user_id>
+                <description_updater_user_id type="integer">66648866</description_updater_user_id>
+                <edition_information_updater_user_id type="integer">44205625</edition_information_updater_user_id>
+                <format_updater_user_id type="integer">13891960</format_updater_user_id>
+                <image_updater_user_id type="integer">8092030</image_updater_user_id>
+                <isbn_updater_user_id type="integer">-51</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">-51</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">6496061</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">2650335</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">6520743</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">44205625</publisher_updater_user_id>
+                <title_updater_user_id type="integer">7293037</title_updater_user_id>
+                <url_updater_user_id type="integer">3025577</url_updater_user_id>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">3706</id>
+                  <name>George Orwell</name>
+                  <updated_at type="datetime">2018-05-29T09:37:14+00:00</updated_at>
+                  <created_at type="datetime">2006-12-07T20:12:07+00:00</created_at>
+                  <searched_for_at type="datetime">2006-12-19T17:45:51+00:00</searched_for_at>
+                  <image_uploaded_at type="datetime">2015-12-20T00:57:43+00:00</image_uploaded_at>
+                  <user_id type="integer" nil="true"/>
+                  <gender>M</gender>
+                  <country_code>IN</country_code>
+                  <born_at type="date">1903-06-25</born_at>
+                  <died_at type="date">1950-01-21</died_at>
+                  <about>&lt;b&gt;Eric Arthur Blair&lt;/b&gt;, better known by his pen name &lt;b&gt;George Orwell&lt;/b&gt;, was an English author and journalist. His work is marked by keen intelligence and wit, a profound awareness of social injustice, an intense
+                    opposition to totalitarianism, a passion for clarity in language, and a belief in democratic socialism. In addition to his literary career Orwell served as a a police officer with the Indian Imperial Police in Burma from 1922-1927 and fought with the
+                    Republicans in the Spanish Civil War from 1936-1937. Orwell was severely wounded when he was shot through his throat. Later the organization that he had joined when he joined the Republican cause,The Workers Party of Marxist Unification (POUM), was
+                    painted by the pro-Soviet Communists as a Trotskyist organization (Trotsky was Joseph Stalin's enemy) and disbanded. Orwell and his wife were accused of "rabid Trotskyism" and tried in absentia in Barcelona, along with other leaders of the POUM, in
+                    1938. However by then they had escaped from Spain and returned to England. Between 1941 and 1943, Orwell worked on propaganda for the BBC. In 1943, he became literary editor of the Tribune, a weekly left-wing magazine. He was a prolific polemical
+                    journalist, article writer, literary critic, reviewer, poet and writer of fiction, and, considered perhaps the twentieth century's best chronicler of English culture. Orwell is best known for the dystopian novel &lt;i&gt;Nineteen
+                    Eighty-Four&lt;/i&gt; (published in 1949) and the satirical novella &lt;i&gt;Animal Farm&lt;/i&gt; (1945) — they have together sold more copies than any two books by any other twentieth-century author. His 1938 book &lt;i&gt;Homage to
+                    Catalonia&lt;/i&gt;, an account of his experiences as a volunteer on the Republican side during the Spanish Civil War, together with numerous essays on politics, literature, language, and culture, are widely acclaimed. Orwell's influence on
+                    contemporary culture, popular and political, continues decades after his death. Several of his neologisms, along with the term "Orwellian" — now a byword for any oppressive or manipulative social phenomenon opposed to a free society — have entered
+                    the vernacular.</about>
+                  <uploader_user_id type="integer">6780007</uploader_user_id>
+                  <image_copyright>Counter Currents</image_copyright>
+                  <influences>[a:Charles Dickens|239579], [a:Jonathan Swift|1831], [a:Charles Reade|111540], [a:Yevgeny Zamyatin|43298], [a:Gustave Flaubert|1461], [a:Wells|880695], [a:Upton Sinclair|23510], [a:Jack London|1240], [a:Tobias Smollett|5878896], [a:Henry
+                    Fielding|17501]</influences>
+                  <url>http://www.george-orwell.org/</url>
+                  <genre1>Fiction</genre1>
+                  <genre2>Politics</genre2>
+                  <genre3>Journalism</genre3>
+                  <books_count type="integer">4404</books_count>
+                  <reviews_count type="integer">3867702</reviews_count>
+                  <ratings_sum type="integer">19245412</ratings_sum>
+                  <works_count type="integer">335</works_count>
+                  <hometown>Motihari, Bihar</hometown>
+                  <rating_dist>5:278930|4:291632|3:201246|2:66021|1:32863|total:870692</rating_dist>
+                  <s3_image_at type="datetime" nil="true"/>
+                  <ratings_count type="integer">4769622</ratings_count>
+                  <text_reviews_count type="integer">104392</text_reviews_count>
+                  <author_program_at type="datetime" nil="true"/>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">15320</fanships_count>
+                  <best_book_id type="integer">5470</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>orwell, george</sort_by_name>
+                  <shelf_display_name>Orwell, George</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[has read <a only_path="false" href="https://www.goodreads.com/review/show/2402381684">Die Werwölfe</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2365798683</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Fri, 25 May 2018 05:29:25 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2365798683</id>
+            <review_id type="integer">2402381684</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status nil="true"/>
+            <status>read</status>
+            <updated_at type="datetime">2018-05-25T12:29:24+00:00</updated_at>
+            <review>
+              <id type="integer">2402381684</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">6582304</book_id>
+              <rating type="integer">0</rating>
+              <read_status>read</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review nil="true"/>
+              <recommendation nil="true"/>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-25T12:29:24+00:00</updated_at>
+              <created_at type="datetime">2018-05-25T12:29:24+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">0</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes nil="true"/>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1 nil="true"/>
+              <work_id type="integer">6775771</work_id>
+              <read_count type="integer">0</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime" nil="true"/>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-25T12:29:24+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">6582304</id>
+                <work_id type="integer">6775771</work_id>
+                <isbn>345353316X</isbn>
+                <isbn13>9783453533165</isbn13>
+                <title>Die Werwölfe</title>
+                <sort_by_title>werwölfe, die</sort_by_title>
+                <author_id type="integer">1332445</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description>Europa Anfang des 19. Jahrhunderts: Während sich die Alte Welt von zahllosen Kriegen erholt, kündigen sich tiefgreifende Veränderungen an – die Menschheit steht an der Grenze zur Moderne. Aber noch sind die Traditionen stark und die
+                  starren Strukturen brechen nur langsam auf. In dieser Zeit des Wandels schickt sich eine uralte Bedrohung an, die Menschen in den Abgrund zu reißen. Denn in den Schatten der Welt hat etwas überlebt: die Werwölfe …</description>
+                <format>Paperback</format>
+                <publication_year type="integer">2009</publication_year>
+                <publication_month type="integer" nil="true"/>
+                <publication_day type="integer" nil="true"/>
+                <num_pages type="integer">512</num_pages>
+                <publisher>Heyne</publisher>
+                <language_code>ger</language_code>
+                <edition_information nil="true"/>
+                <url nil="true"/>
+                <source_url>Owns physical book</source_url>
+                <image_uploaded_at type="datetime">2012-01-24T15:19:20+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2015-06-15T22:57:12+00:00</s3_image_at>
+                <reviews_count type="integer">130</reviews_count>
+                <ratings_sum type="integer">243</ratings_sum>
+                <ratings_count type="integer">64</ratings_count>
+                <text_reviews_count type="integer">6</text_reviews_count>
+                <book_authors_count type="integer">0</book_authors_count>
+                <updated_at type="datetime">2016-01-31T15:40:53+00:00</updated_at>
+                <created_at type="datetime">2009-07-01T10:17:14+00:00</created_at>
+                <author_id_updater_user_id type="integer">4024022</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer">1250419</author_role_updater_user_id>
+                <description_updater_user_id type="integer">45435065</description_updater_user_id>
+                <edition_information_updater_user_id type="integer" nil="true"/>
+                <format_updater_user_id type="integer">4024022</format_updater_user_id>
+                <image_updater_user_id type="integer">4024022</image_updater_user_id>
+                <isbn_updater_user_id type="integer">4024022</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">4024022</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">1902110</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">4024022</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">4024022</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">4024022</publisher_updater_user_id>
+                <title_updater_user_id type="integer">1250419</title_updater_user_id>
+                <url_updater_user_id type="integer" nil="true"/>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">1332445</id>
+                  <name>Christoph Hardebusch</name>
+                  <updated_at type="datetime">2018-05-20T18:20:19+00:00</updated_at>
+                  <created_at type="datetime">2008-03-28T12:53:39+00:00</created_at>
+                  <searched_for_at type="datetime">2008-05-10T01:45:30+00:00</searched_for_at>
+                  <image_uploaded_at type="datetime" nil="true"/>
+                  <user_id type="integer" nil="true"/>
+                  <gender>M</gender>
+                  <country_code>DE</country_code>
+                  <born_at type="date">1974-09-24</born_at>
+                  <died_at type="datetime" nil="true"/>
+                  <about>Christoph Hardebusch, geboren 1974 in Lüdenscheid, studierte Anglistik und Medienwissenschaft in Marburg und arbeitete anschließend als Texter bei einer Werbeagentur. Sein Interesse an Fantasy und Geschichte führte ihn schließlich zum
+                    Schreiben. Seit dem großen Erfolg seines Debüt-Romans „Die Trolle“ ist er als freischaffender Autor tätig. Christoph Hardebusch lebt mit seiner Frau in Heidelberg.</about>
+                  <uploader_user_id type="integer">4605883</uploader_user_id>
+                  <image_copyright></image_copyright>
+                  <influences></influences>
+                  <url>http://www.hardebusch.net/</url>
+                  <genre1></genre1>
+                  <genre2></genre2>
+                  <genre3></genre3>
+                  <books_count type="integer">76</books_count>
+                  <reviews_count type="integer">2187</reviews_count>
+                  <ratings_sum type="integer">4186</ratings_sum>
+                  <works_count type="integer">27</works_count>
+                  <hometown>Lüdenscheid</hometown>
+                  <rating_dist>5:10|4:28|3:18|2:1|1:2|total:59</rating_dist>
+                  <s3_image_at type="datetime" nil="true"/>
+                  <ratings_count type="integer">1152</ratings_count>
+                  <text_reviews_count type="integer">70</text_reviews_count>
+                  <author_program_at type="datetime" nil="true"/>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">8</fanships_count>
+                  <best_book_id type="integer">3279092</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>hardebusch, christoph</sort_by_name>
+                  <shelf_display_name>Hardebusch, Christoph</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[has read <a only_path="false" href="https://www.goodreads.com/review/show/2402381452">The Testing (The Testing, #1)</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2365798362</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Fri, 25 May 2018 05:28:58 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2365798362</id>
+            <review_id type="integer">2402381452</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status nil="true"/>
+            <status>read</status>
+            <updated_at type="datetime">2018-05-25T12:28:58+00:00</updated_at>
+            <review>
+              <id type="integer">2402381452</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">13326831</book_id>
+              <rating type="integer">0</rating>
+              <read_status>read</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review nil="true"/>
+              <recommendation nil="true"/>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-25T12:28:58+00:00</updated_at>
+              <created_at type="datetime">2018-05-25T12:28:57+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">0</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes nil="true"/>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1 nil="true"/>
+              <work_id type="integer">18534001</work_id>
+              <read_count type="integer">0</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime" nil="true"/>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-25T12:28:58+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">13326831</id>
+                <work_id type="integer">18534001</work_id>
+                <isbn>0547959109</isbn>
+                <isbn13>9780547959108</isbn13>
+                <title>The Testing (The Testing, #1)</title>
+                <sort_by_title>testing (the testing, #1), the</sort_by_title>
+                <author_id type="integer">4027380</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description nil="true"/>
+                <format>Hardcover</format>
+                <publication_year type="integer">2013</publication_year>
+                <publication_month type="integer">6</publication_month>
+                <publication_day type="integer">4</publication_day>
+                <num_pages type="integer">325</num_pages>
+                <publisher>Houghton Mifflin</publisher>
+                <language_code>eng</language_code>
+                <edition_information nil="true"/>
+                <url nil="true"/>
+                <source_url nil="true"/>
+                <image_uploaded_at type="datetime">2013-03-16T16:43:11+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2015-06-16T01:43:17+00:00</s3_image_at>
+                <reviews_count type="integer">95137</reviews_count>
+                <ratings_sum type="integer">169734</ratings_sum>
+                <ratings_count type="integer">41940</ratings_count>
+                <text_reviews_count type="integer">5147</text_reviews_count>
+                <book_authors_count type="integer">0</book_authors_count>
+                <updated_at type="datetime">2016-01-01T20:59:43+00:00</updated_at>
+                <created_at type="datetime">2011-12-28T04:51:27+00:00</created_at>
+                <author_id_updater_user_id type="integer">3078995</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer">3078995</author_role_updater_user_id>
+                <description_updater_user_id type="integer">5433361</description_updater_user_id>
+                <edition_information_updater_user_id type="integer" nil="true"/>
+                <format_updater_user_id type="integer">3914579</format_updater_user_id>
+                <image_updater_user_id type="integer">2366949</image_updater_user_id>
+                <isbn_updater_user_id type="integer">3973124</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">3973124</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">5126742</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">8312945</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">3914579</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">8312945</publisher_updater_user_id>
+                <title_updater_user_id type="integer">4736859</title_updater_user_id>
+                <url_updater_user_id type="integer">3078995</url_updater_user_id>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">4027380</id>
+                  <name>Joelle Charbonneau</name>
+                  <updated_at type="datetime">2018-05-29T06:31:56+00:00</updated_at>
+                  <created_at type="datetime">2010-05-21T18:37:27+00:00</created_at>
+                  <searched_for_at type="datetime">2010-05-21T18:37:32+00:00</searched_for_at>
+                  <image_uploaded_at type="datetime">2012-01-13T05:50:15+00:00</image_uploaded_at>
+                  <user_id type="integer" nil="true"/>
+                  <gender>F</gender>
+                  <country_code>US</country_code>
+                  <born_at type="date">1974-11-04</born_at>
+                  <died_at type="datetime" nil="true"/>
+                  <about>I am a storyteller at heart. I have performed in a variety of operas, musical theatre and children's theatre productions across the Chicagoland area. While I'm happy to perform for an audience, I am equally delighted to teach private voice
+                    lessons and use my experience from the stage to create compelling characters on the page. I am the author of the Rebecca Robbins mystery series (Minotaur Books), The Paige Marshall Glee Club mysteries (Berkley) and The Testing YA triology (Houghton
+                    Mifflin Harcourt).
+
+                  </about>
+                  <uploader_user_id type="integer">3914579</uploader_user_id>
+                  <image_copyright>photo credit - Pete Stenberg</image_copyright>
+                  <influences></influences>
+                  <url>http://www.joellecharbonneau.com</url>
+                  <genre1>Mystery &amp; Thrillers</genre1>
+                  <genre2>Young Adult</genre2>
+                  <genre3>Science Fiction &amp; Fantasy</genre3>
+                  <books_count type="integer">237</books_count>
+                  <reviews_count type="integer">244057</reviews_count>
+                  <ratings_sum type="integer">421746</ratings_sum>
+                  <works_count type="integer">26</works_count>
+                  <hometown>Chicago</hometown>
+                  <rating_dist>5:29|4:29|3:26|2:7|1:3|total:94</rating_dist>
+                  <s3_image_at type="datetime">2015-05-15T05:42:36+00:00</s3_image_at>
+                  <ratings_count type="integer">106834</ratings_count>
+                  <text_reviews_count type="integer">12361</text_reviews_count>
+                  <author_program_at type="datetime">2010-06-23T16:59:17+00:00</author_program_at>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">699</fanships_count>
+                  <best_book_id type="integer">13326831</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>charbonneau, joelle</sort_by_name>
+                  <shelf_display_name>Charbonneau, Joelle</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[has read <a only_path="false" href="https://www.goodreads.com/review/show/2402378778">De ontdekking van de hemel</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2365794704</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Fri, 25 May 2018 05:24:21 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2365794704</id>
+            <review_id type="integer">2402378778</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status nil="true"/>
+            <status>read</status>
+            <updated_at type="datetime">2018-05-25T12:24:21+00:00</updated_at>
+            <review>
+              <id type="integer">2402378778</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">88413</book_id>
+              <rating type="integer">0</rating>
+              <read_status>read</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review nil="true"/>
+              <recommendation nil="true"/>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-25T12:24:21+00:00</updated_at>
+              <created_at type="datetime">2018-05-25T12:24:21+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">0</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes nil="true"/>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1 nil="true"/>
+              <work_id type="integer">85295</work_id>
+              <read_count type="integer">1</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime" nil="true"/>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-25T12:24:21+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">88413</id>
+                <work_id type="integer">85295</work_id>
+                <isbn>9023461231</isbn>
+                <isbn13>9789023461234</isbn13>
+                <title>De ontdekking van de hemel</title>
+                <sort_by_title>ontdekking van de hemel, de</sort_by_title>
+                <author_id type="integer">44694</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description>&lt;i&gt;De ontdekking van de hemel&lt;/i&gt;: Een totaalroman. Dit monumentale boek, waarin alle thema's en obsessies uit het werk van Harry Mulisch in 65 hoofdstukken bijeenkomen, is tegelijk een psychologische roman, een filosofische
+                  roman, een tijdroman, een ontwikkelingsroman, een avonturenroman en een alles overkoepelend mysteriespel. --back cover</description>
+                <format>Hardcover</format>
+                <publication_year type="integer">1992</publication_year>
+                <publication_month type="integer">10</publication_month>
+                <publication_day type="integer">13</publication_day>
+                <num_pages type="integer">905</num_pages>
+                <publisher>De Bezige Bij</publisher>
+                <language_code>nl</language_code>
+                <edition_information>BBLiterair</edition_information>
+                <url nil="true"/>
+                <source_url>http://zoeken.bibliotheek.be/</source_url>
+                <image_uploaded_at type="datetime">2018-04-29T08:05:53+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2018-04-29T08:05:56+00:00</s3_image_at>
+                <reviews_count type="integer">4126</reviews_count>
+                <ratings_sum type="integer">10474</ratings_sum>
+                <ratings_count type="integer">2484</ratings_count>
+                <text_reviews_count type="integer">109</text_reviews_count>
+                <book_authors_count type="integer">0</book_authors_count>
+                <updated_at type="datetime">2018-04-29T08:05:56+00:00</updated_at>
+                <created_at type="datetime">2007-02-10T19:05:11+00:00</created_at>
+                <author_id_updater_user_id type="integer">1931718</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer">7233990</author_role_updater_user_id>
+                <description_updater_user_id type="integer">4628840</description_updater_user_id>
+                <edition_information_updater_user_id type="integer">5986596</edition_information_updater_user_id>
+                <format_updater_user_id type="integer">1931718</format_updater_user_id>
+                <image_updater_user_id type="integer">4628840</image_updater_user_id>
+                <isbn_updater_user_id type="integer">1931718</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">1931718</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">1886329</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">1931718</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">1931718</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">1931718</publisher_updater_user_id>
+                <title_updater_user_id type="integer">9653851</title_updater_user_id>
+                <url_updater_user_id type="integer" nil="true"/>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">44694</id>
+                  <name>Harry Mulisch</name>
+                  <updated_at type="datetime">2018-05-28T17:52:08+00:00</updated_at>
+                  <created_at type="datetime">2007-02-08T18:30:26+00:00</created_at>
+                  <searched_for_at type="datetime">2007-02-23T13:26:13+00:00</searched_for_at>
+                  <image_uploaded_at type="datetime">2009-04-19T14:35:54+00:00</image_uploaded_at>
+                  <user_id type="integer" nil="true"/>
+                  <gender>M</gender>
+                  <country_code>NL</country_code>
+                  <born_at type="date">1927-07-29</born_at>
+                  <died_at type="date">2010-10-30</died_at>
+                  <about>Harry Kurt Victor Mulisch along with W.F. Hermans and Gerard Reve, is considered one of the "Great Three" of Dutch postwar literature. He has written novels, plays, essays, poems, and philosophical reflections. Mulisch was born in Haarlem and
+                    has lived in Amsterdam since 1958, following the death of his father in 1957. Mulisch's father was from Austria-Hungary and emigrated to the Netherlands after the First World War. During the German occupation in World War II he worked for a German
+                    bank, which also dealt with confiscated Jewish assets. His mother, Alice Schwarz, was Jewish. Mulisch and his mother escaped transportation to a concentration camp thanks to Mulisch's father's collaboration with the Nazis. Due to the curious nature
+                    of his parents' positions, Mulisch has claimed that he is the Second World War. A frequent theme in his work is the Second World War. His father had worked for the Germans during the war and went to prison for three years afterwards. As the war
+                    spanned most of Mulisch's formative phase, it had a defining influence on his life and work. In 1963, he wrote a non-fiction work about the Eichmann case: The case 40/61. Major works set against the backdrop of the Second World War are De Aanslag,
+                    Het stenen bruidsbed, and Siegfried. Additionally, Mulisch often incorporates ancient legends or myths in his writings, drawing on Greek mythology (e.g. in De Elementen), Jewish mysticism (in De ontdekking van de Hemel and De Procedure), well-known
+                    urban legends and politics (Mulisch is politically left-wing, notably defending Fidel Castro since the Cuban revolution). Mulisch is widely read and (according to his critics) often flaunts his philosophical and even scientific knowledge. Mulisch
+                    gained international recognition with the movie De Aanslag (The Assault), (1986) which was based on his eponymous book. It received an Oscar and a Golden Globe for best foreign movie and has been translated in more than twenty languages. His novel De
+                    ontdekking van de Hemel (1992) was filmed in 2001 as The Discovery of Heaven by Jeroen Krabbé, starring Stephen Fry. Amongst many awards he has received for individual works and his total body of work, the most important is the Prijs der Nederlandse
+                    Letteren (Prize of Dutch Literature, an official lifetime achievement award) in 1995.</about>
+                  <uploader_user_id type="integer">1217986</uploader_user_id>
+                  <image_copyright>http://prijsderletteren.org/Harry_Mulisch.php</image_copyright>
+                  <influences></influences>
+                  <url></url>
+                  <genre1>Literature &amp; Fiction</genre1>
+                  <genre2>Poetry</genre2>
+                  <genre3>Historical Fiction</genre3>
+                  <books_count type="integer">420</books_count>
+                  <reviews_count type="integer">56295</reviews_count>
+                  <ratings_sum type="integer">117627</ratings_sum>
+                  <works_count type="integer">107</works_count>
+                  <hometown>Haarlem</hometown>
+                  <rating_dist>5:683|4:851|3:652|2:218|1:68|total:2472</rating_dist>
+                  <s3_image_at type="datetime">2015-05-14T23:08:16+00:00</s3_image_at>
+                  <ratings_count type="integer">31849</ratings_count>
+                  <text_reviews_count type="integer">1268</text_reviews_count>
+                  <author_program_at type="datetime" nil="true"/>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">153</fanships_count>
+                  <best_book_id type="integer">88389</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>mulisch, harry</sort_by_name>
+                  <shelf_display_name>Mulisch, Harry</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2402378058">Cozy Classics: Moby Dick</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2365793766</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Fri, 25 May 2018 05:23:06 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2365793766</id>
+            <review_id type="integer">2402378058</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status nil="true"/>
+            <status>to-read</status>
+            <updated_at type="datetime">2018-05-25T12:23:06+00:00</updated_at>
+            <review>
+              <id type="integer">2402378058</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">13593636</book_id>
+              <rating type="integer">0</rating>
+              <read_status>to-read</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review nil="true"/>
+              <recommendation nil="true"/>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-25T12:23:06+00:00</updated_at>
+              <created_at type="datetime">2018-05-25T12:23:05+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">0</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes nil="true"/>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1 nil="true"/>
+              <work_id type="integer">45976405</work_id>
+              <read_count type="integer">0</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime" nil="true"/>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-25T12:23:06+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">13593636</id>
+                <work_id type="integer">45976405</work_id>
+                <isbn>1927018110</isbn>
+                <isbn13>9781927018118</isbn13>
+                <title>Cozy Classics: Moby Dick</title>
+                <sort_by_title>cozy classics: moby dick</sort_by_title>
+                <author_id type="integer">5813845</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description nil="true"/>
+                <format>Board Book</format>
+                <publication_year type="integer">2012</publication_year>
+                <publication_month type="integer">11</publication_month>
+                <publication_day type="integer">15</publication_day>
+                <num_pages type="integer">24</num_pages>
+                <publisher>Simply Read Books</publisher>
+                <language_code>eng</language_code>
+                <edition_information nil="true"/>
+                <url nil="true"/>
+                <source_url nil="true"/>
+                <image_uploaded_at type="datetime">2012-08-12T05:58:52+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2015-06-16T01:52:29+00:00</s3_image_at>
+                <reviews_count type="integer">1606</reviews_count>
+                <ratings_sum type="integer">3240</ratings_sum>
+                <ratings_count type="integer">886</ratings_count>
+                <text_reviews_count type="integer">59</text_reviews_count>
+                <book_authors_count type="integer">2</book_authors_count>
+                <updated_at type="datetime">2015-08-05T20:22:12+00:00</updated_at>
+                <created_at type="datetime">2012-04-09T22:51:47+00:00</created_at>
+                <author_id_updater_user_id type="integer">2665705</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer" nil="true"/>
+                <description_updater_user_id type="integer">2665705</description_updater_user_id>
+                <edition_information_updater_user_id type="integer" nil="true"/>
+                <format_updater_user_id type="integer">-44</format_updater_user_id>
+                <image_updater_user_id type="integer">-44</image_updater_user_id>
+                <isbn_updater_user_id type="integer">-44</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">-44</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">-110</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">-44</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">-44</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">-44</publisher_updater_user_id>
+                <title_updater_user_id type="integer">-44</title_updater_user_id>
+                <url_updater_user_id type="integer" nil="true"/>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">5813845</id>
+                  <name>Jack Wang</name>
+                  <updated_at type="datetime">2018-03-08T21:05:56+00:00</updated_at>
+                  <created_at type="datetime">2012-04-09T22:51:47+00:00</created_at>
+                  <searched_for_at type="datetime" nil="true"/>
+                  <image_uploaded_at type="datetime" nil="true"/>
+                  <user_id type="integer" nil="true"/>
+                  <gender nil="true"/>
+                  <country_code nil="true"/>
+                  <born_at type="datetime" nil="true"/>
+                  <died_at type="datetime" nil="true"/>
+                  <about nil="true"/>
+                  <uploader_user_id type="integer">0</uploader_user_id>
+                  <image_copyright nil="true"/>
+                  <influences nil="true"/>
+                  <url nil="true"/>
+                  <genre1 nil="true"/>
+                  <genre2 nil="true"/>
+                  <genre3 nil="true"/>
+                  <books_count type="integer">49</books_count>
+                  <reviews_count type="integer">5095</reviews_count>
+                  <ratings_sum type="integer">11100</ratings_sum>
+                  <works_count type="integer">19</works_count>
+                  <hometown nil="true"/>
+                  <rating_dist nil="true"/>
+                  <s3_image_at type="datetime" nil="true"/>
+                  <ratings_count type="integer">2801</ratings_count>
+                  <text_reviews_count type="integer">460</text_reviews_count>
+                  <author_program_at type="datetime" nil="true"/>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">5</fanships_count>
+                  <best_book_id type="integer">13593636</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>wang, jack</sort_by_name>
+                  <shelf_display_name>Wang, Jack</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2402377648">Harry Potter and the Goblet of Fire (Harry Potter, #4)</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2365793216</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Fri, 25 May 2018 05:22:19 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2365793216</id>
+            <review_id type="integer">2402377648</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status nil="true"/>
+            <status>to-read</status>
+            <updated_at type="datetime">2018-05-25T12:22:19+00:00</updated_at>
+            <review>
+              <id type="integer">2402377648</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">6</book_id>
+              <rating type="integer">0</rating>
+              <read_status>to-read</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review nil="true"/>
+              <recommendation nil="true"/>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-25T12:22:19+00:00</updated_at>
+              <created_at type="datetime">2018-05-25T12:22:18+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">0</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes nil="true"/>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1 nil="true"/>
+              <work_id type="integer">3046572</work_id>
+              <read_count type="integer">0</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime" nil="true"/>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-25T12:22:19+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">6</id>
+                <work_id type="integer">3046572</work_id>
+                <isbn>0439139600</isbn>
+                <isbn13>9780439139601</isbn13>
+                <title>Harry Potter and the Goblet of Fire (Harry Potter, #4)</title>
+                <sort_by_title>harry potter and the goblet of fire</sort_by_title>
+                <author_id type="integer">1077326</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description nil="true"/>
+                <format>Paperback</format>
+                <publication_year type="integer">2002</publication_year>
+                <publication_month type="integer">9</publication_month>
+                <publication_day type="integer">28</publication_day>
+                <num_pages type="integer">734</num_pages>
+                <publisher>Scholastic</publisher>
+                <language_code>eng</language_code>
+                <edition_information>First Scholastic Trade Paperback Edition</edition_information>
+                <url nil="true"/>
+                <source_url nil="true"/>
+                <image_uploaded_at type="datetime">2013-02-21T21:36:51+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2015-05-16T14:47:47+00:00</s3_image_at>
+                <reviews_count type="integer">2316819</reviews_count>
+                <ratings_sum type="integer">8471448</ratings_sum>
+                <ratings_count type="integer">1868869</ratings_count>
+                <text_reviews_count type="integer">26795</text_reviews_count>
+                <book_authors_count type="integer">0</book_authors_count>
+                <updated_at type="datetime">2018-03-13T20:34:04+00:00</updated_at>
+                <created_at type="datetime">2006-08-20T02:10:15+00:00</created_at>
+                <author_id_updater_user_id type="integer">-44</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer">3066154</author_role_updater_user_id>
+                <description_updater_user_id type="integer">1738709</description_updater_user_id>
+                <edition_information_updater_user_id type="integer">30539367</edition_information_updater_user_id>
+                <format_updater_user_id type="integer">3264642</format_updater_user_id>
+                <image_updater_user_id type="integer">17596698</image_updater_user_id>
+                <isbn_updater_user_id type="integer">2044729</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">2044729</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">2116632</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">55714175</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">7798697</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">1738709</publisher_updater_user_id>
+                <title_updater_user_id type="integer">4628840</title_updater_user_id>
+                <url_updater_user_id type="integer">66648866</url_updater_user_id>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">1077326</id>
+                  <name>J.K. Rowling</name>
+                  <updated_at type="datetime">2018-05-29T09:41:38+00:00</updated_at>
+                  <created_at type="datetime">2007-12-28T21:03:34+00:00</created_at>
+                  <searched_for_at type="datetime">2008-01-03T06:12:50+00:00</searched_for_at>
+                  <image_uploaded_at type="datetime">2017-11-11T21:18:43+00:00</image_uploaded_at>
+                  <user_id type="integer" nil="true"/>
+                  <gender>F</gender>
+                  <country_code>GB</country_code>
+                  <born_at type="date">1965-07-31</born_at>
+                  <died_at type="datetime" nil="true"/>
+                  <about>See also: [a:Robert Galbraith|383606] Although she writes under the pen name &lt;b&gt;J.K. Rowling&lt;/b&gt;, pronounced like &lt;i&gt;rolling&lt;/i&gt;, her name when her first &lt;i&gt;Harry Potter&lt;/i&gt; book was published was simply
+                    &lt;b&gt;Joanne Rowling&lt;/b&gt;. Anticipating that the target audience of young boys might not want to read a book written by a woman, her publishers demanded that she use two initials, rather than her full name. As she had no middle name, she
+                    chose &lt;b&gt;K&lt;/b&gt; as the second initial of her pen name, from her paternal grandmother Kathleen Ada Bulgen Rowling. She calls herself &lt;b&gt;Jo&lt;/b&gt; and has said, "No one ever called me 'Joanne' when I was young, unless they were
+                    angry." Following her marriage, she has sometimes used the name &lt;b&gt;Joanne Murray&lt;/b&gt; when conducting personal business. During the Leveson Inquiry she gave evidence under the name of &lt;b&gt;Joanne Kathleen Rowling&lt;/b&gt;. In a 2012
+                    interview, Rowling noted that she no longer cared that people pronounced her name incorrectly. Rowling was born to Peter James Rowling, a Rolls-Royce aircraft engineer, and Anne Rowling (née Volant), on 31 July 1965 in Yate, Gloucestershire, England,
+                    10 miles (16 km) northeast of Bristol. Her mother Anne was half-French and half-Scottish. Her parents first met on a train departing from King's Cross Station bound for Arbroath in 1964. They married on 14 March 1965. Her mother's maternal
+                    grandfather, Dugald Campbell, was born in Lamlash on the Isle of Arran. Her mother's paternal grandfather, Louis Volant, was awarded the Croix de Guerre for exceptional bravery in defending the village of Courcelles-le-Comte during the First World
+                    War. Rowling's sister Dianne was born at their home when Rowling was 23 months old. The family moved to the nearby village Winterbourne when Rowling was four. She attended St Michael's Primary School, a school founded by abolitionist William
+                    Wilberforce and education reformer Hannah More. Her headmaster at St Michael's, Alfred Dunn, has been suggested as the inspiration for the &lt;i&gt;Harry Potter&lt;/i&gt; headmaster Albus Dumbledore. As a child, Rowling often wrote fantasy stories,
+                    which she would usually then read to her sister. She recalls that: "I can still remember me telling her a story in which she fell down a rabbit hole and was fed strawberries by the rabbit family inside it. Certainly the first story I ever wrote down
+                    (when I was five or six) was about a rabbit called Rabbit. He got the measles and was visited by his friends, including a giant bee called Miss Bee." At the age of nine, Rowling moved to Church Cottage in the Gloucestershire village of Tutshill,
+                    close to Chepstow, Wales. When she was a young teenager, her great aunt, who Rowling said "taught classics and approved of a thirst for knowledge, even of a questionable kind," gave her a very old copy of Jessica Mitford's autobiography,
+                    &lt;i&gt;Hons and Rebels&lt;/i&gt;. Mitford became Rowling's heroine, and Rowling subsequently read all of her books. Rowling has said of her teenage years, in an interview with The New Yorker, "I wasn’t particularly happy. I think it’s a dreadful
+                    time of life." She had a difficult homelife; her mother was ill and she had a difficult relationship with her father (she is no longer on speaking terms with him). She attended secondary school at Wyedean School and College, where her mother had
+                    worked as a technician in the science department. Rowling said of her adolescence, "Hermione [a bookish, know-it-all &lt;i&gt;Harry Potter&lt;/i&gt; character] is loosely based on me. She's a caricature of me when I was eleven, which I'm not
+                    particularly proud of." Steve Eddy, who taught Rowling English when she first arrived, remembers her as "not exceptional" but "one of a group of girls who were bright, and quite good at English." Sean Harris, her best friend in the Upper Sixth owned
+                    a turquoise Ford Anglia, which she says inspired the one in her books.</about>
+                  <uploader_user_id type="integer">14059993</uploader_user_id>
+                  <image_copyright>https://i.guim.co.uk/img/media/6bb4cf16fc0474bb7e199c7ce0b2575b0740d3c4/0_0_3744_4681/master/3744.jpg?w=1920&amp;q=85&amp;auto=format&amp;sharp=10&amp;s=a2340ddef3b2793cd8b03e4fb842cfa5</image_copyright>
+                  <influences>[a:Jane Austen|1265], [a:Geoffrey Chaucer|1838], [a:Oscar Wilde|3565], [a:C.S. Lewis|1069006]</influences>
+                  <url>http://www.jkrowling.com</url>
+                  <genre1>Fiction</genre1>
+                  <genre2>Young-adult</genre2>
+                  <genre3>Fantasy</genre3>
+                  <books_count type="integer">4460</books_count>
+                  <reviews_count type="integer">26049940</reviews_count>
+                  <ratings_sum type="integer">87562599</ratings_sum>
+                  <works_count type="integer">183</works_count>
+                  <hometown>Yate, South Gloucestershire, England</hometown>
+                  <rating_dist>5:1790645|4:985580|3:445251|2:91064|1:33493|total:334603</rating_dist>
+                  <s3_image_at type="datetime" nil="true"/>
+                  <ratings_count type="integer">19717519</ratings_count>
+                  <text_reviews_count type="integer">478065</text_reviews_count>
+                  <author_program_at type="datetime" nil="true"/>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">101527</fanships_count>
+                  <best_book_id type="integer">3</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>rowling, j.k.</sort_by_name>
+                  <shelf_display_name>Rowling, J.K.</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="readstatus">
+        <action_text>
+          <![CDATA[has read <a only_path="false" href="https://www.goodreads.com/review/show/2401640349">The Way of Kings (The Stormlight Archive, #1)</a>]]>
+        </action_text>
+        <link>https://www.goodreads.com/read_statuses/2364783821</link>
+        <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+        <actor>
+          <id type="integer">81596543</id>
+          <name>MyShelf</name>
+          <image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>
+          <link>https://www.goodreads.com/user/show/81596543-myshelf</link>
+        </actor>
+        <updated_at>Thu, 24 May 2018 10:10:34 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">2364783821</id>
+            <review_id type="integer">2401640349</review_id>
+            <user_id type="integer">81596543</user_id>
+            <old_status nil="true"/>
+            <status>read</status>
+            <updated_at type="datetime">2018-05-24T17:10:34+00:00</updated_at>
+            <review>
+              <id type="integer">2401640349</id>
+              <user_id type="integer">81596543</user_id>
+              <book_id type="integer">7235533</book_id>
+              <rating type="integer">0</rating>
+              <read_status>read</read_status>
+              <sell_flag type="boolean">false</sell_flag>
+              <review nil="true"/>
+              <recommendation nil="true"/>
+              <read_at type="datetime" nil="true"/>
+              <updated_at type="datetime">2018-05-24T17:10:34+00:00</updated_at>
+              <created_at type="datetime">2018-05-24T17:10:34+00:00</created_at>
+              <comments_count type="integer">0</comments_count>
+              <weight type="integer">0</weight>
+              <ratings_sum type="integer">0</ratings_sum>
+              <ratings_count type="integer">0</ratings_count>
+              <notes nil="true"/>
+              <spoiler_flag type="boolean">false</spoiler_flag>
+              <recommender_user_id1 type="integer">0</recommender_user_id1>
+              <recommender_user_name1 nil="true"/>
+              <work_id type="integer">8134945</work_id>
+              <read_count type="integer">1</read_count>
+              <last_comment_at type="datetime" nil="true"/>
+              <started_at type="datetime" nil="true"/>
+              <hidden_flag type="boolean">false</hidden_flag>
+              <language_code type="integer" nil="true"/>
+              <last_revision_at type="datetime">2018-05-24T17:10:34+00:00</last_revision_at>
+              <non_friends_rating_count type="integer">0</non_friends_rating_count>
+              <book>
+                <id type="integer">7235533</id>
+                <work_id type="integer">8134945</work_id>
+                <isbn>0765326353</isbn>
+                <isbn13>9780765326355</isbn13>
+                <title>The Way of Kings (The Stormlight Archive, #1)</title>
+                <sort_by_title>way of kings, the (the stormlight archive #1)</sort_by_title>
+                <author_id type="integer">38550</author_id>
+                <author_role nil="true"/>
+                <asin nil="true"/>
+                <description>&lt;b&gt;From #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Brandon Sanderson, &lt;i&gt;The Way of Kings&lt;/i&gt;, Book One of the Stormlight Archive begins an incredible new saga of epic proportion.&lt;/b&gt; Roshar is a
+                  world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless
+                  ground. Cities are built only where the topography offers shelter. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that
+                  transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars were fought for them, and won by them. One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical
+                  apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them
+                  expendable. Brightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called &lt;i&gt;The Way of Kings&lt;/i&gt;. Troubled by over-powering visions of ancient times and the
+                  Knights Radiant, he has begun to doubt his own sanity. Across the ocean, an untried young woman named Shallan seeks to train under an eminent scholar and notorious heretic, Dalinar's niece, Jasnah. Though she genuinely loves learning, Shallan's
+                  motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war. The result of over ten years of planning, writing, and world-building, &lt;i&gt;The Way of
+                  Kings&lt;/i&gt; is but the opening movement of the Stormlight Archive, a bold masterpiece in the making. Speak again the ancient oaths: &lt;b&gt;Life before death.&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;Strength before
+                  weakness.&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;Journey before Destination.&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;and return to men the Shards they once bore. The Knights Radiant must stand again. &lt;b&gt;Other
+                  Tor books by Brandon Sanderson&lt;/b&gt; &lt;b&gt;&lt;u&gt;The Cosmere&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;The Stormlight Archive&lt;/b&gt;&lt;br&gt;&lt;i&gt;The Way of Kings&lt;/i&gt;&lt;br&gt;&lt;i&gt;Words of
+                  Radiance&lt;/i&gt;&lt;br&gt;&lt;i&gt;Edgedancer &lt;/i&gt;(Novella)&lt;br&gt;&lt;i&gt;Oathbringer&lt;/i&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;The Mistborn trilogy&lt;/b&gt;&lt;br&gt;&lt;i&gt;Mistborn: The Final
+                  Empire&lt;/i&gt;&lt;br&gt;&lt;i&gt;The Well of Ascension&lt;/i&gt;&lt;br&gt;&lt;i&gt;The Hero of Ages&lt;/i&gt;&lt;br&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;&lt;i&gt;&lt;/i&gt;&lt;b&gt;Mistborn: The Wax and Wayne series&lt;/b&gt;&lt;br&gt;&lt;i&gt;Alloy of
+                  Law&lt;/i&gt;&lt;br&gt;&lt;i&gt;Shadows of Self&lt;/i&gt;&lt;br&gt;&lt;i&gt;Bands of Mourning&lt;/i&gt; &lt;b&gt;Collection&lt;/b&gt;&lt;br&gt;&lt;i&gt;Arcanum Unbounded&lt;/i&gt; &lt;b&gt;Other Cosmere
+                  novels&lt;/b&gt;&lt;br&gt;&lt;i&gt;Elantris&lt;/i&gt;&lt;br&gt;&lt;i&gt;Warbreaker&lt;/i&gt; &lt;b&gt;&lt;u&gt;The Alcatraz vs. the Evil Librarians series&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;Alcatraz vs. the Evil
+                  Librarians&lt;/i&gt;&lt;br&gt;&lt;i&gt;The Scrivener's Bones&lt;/i&gt;&lt;br&gt;&lt;i&gt;The Knights of Crystallia&lt;/i&gt;&lt;br&gt;&lt;i&gt;The Shattered Lens&lt;/i&gt;&lt;br&gt;&lt;i&gt;The Dark Talent&lt;/i&gt; &lt;b&gt;&lt;u&gt;The Rithmatist
+                  series&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;&lt;/u&gt;&lt;/b&gt;&lt;i&gt;The Rithmatist&lt;/i&gt; &lt;b&gt;Other books by Brandon Sanderson&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;The
+                  Reckoners&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;Steelheart&lt;/i&gt;&lt;br&gt;&lt;i&gt;Firefight&lt;/i&gt;&lt;br&gt;&lt;i&gt;Calamity&lt;/i&gt;</description>
+                <format>Hardcover</format>
+                <publication_year type="integer">2010</publication_year>
+                <publication_month type="integer">8</publication_month>
+                <publication_day type="integer">31</publication_day>
+                <num_pages type="integer">1007</num_pages>
+                <publisher>Tor Books</publisher>
+                <language_code>eng</language_code>
+                <edition_information nil="true"/>
+                <url nil="true"/>
+                <source_url nil="true"/>
+                <image_uploaded_at type="datetime">2013-12-27T22:50:40+00:00</image_uploaded_at>
+                <s3_image_at type="datetime">2017-10-06T16:38:09+00:00</s3_image_at>
+                <reviews_count type="integer">309872</reviews_count>
+                <ratings_sum type="integer">782517</ratings_sum>
+                <ratings_count type="integer">168437</ratings_count>
+                <text_reviews_count type="integer">10755</text_reviews_count>
+                <book_authors_count type="integer">0</book_authors_count>
+                <updated_at type="datetime">2018-03-16T05:59:40+00:00</updated_at>
+                <created_at type="datetime">2009-12-01T18:58:54+00:00</created_at>
+                <author_id_updater_user_id type="integer">-1022</author_id_updater_user_id>
+                <author_role_updater_user_id type="integer">3192371</author_role_updater_user_id>
+                <description_updater_user_id type="integer">20822146</description_updater_user_id>
+                <edition_information_updater_user_id type="integer" nil="true"/>
+                <format_updater_user_id type="integer">-1022</format_updater_user_id>
+                <image_updater_user_id type="integer">5182852</image_updater_user_id>
+                <isbn_updater_user_id type="integer">-1022</isbn_updater_user_id>
+                <isbn13_updater_user_id type="integer">-1022</isbn13_updater_user_id>
+                <language_updater_user_id type="integer">12348405</language_updater_user_id>
+                <num_pages_updater_user_id type="integer">5734375</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">-1022</publication_date_updater_user_id>
+                <publisher_updater_user_id type="integer">-1022</publisher_updater_user_id>
+                <title_updater_user_id type="integer">32846944</title_updater_user_id>
+                <url_updater_user_id type="integer" nil="true"/>
+                <title_language_code nil="true"/>
+                <publisher_language_code nil="true"/>
+                <description_language_code nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author>
+                  <id type="integer">38550</id>
+                  <name>Brandon Sanderson</name>
+                  <updated_at type="datetime">2018-05-29T09:00:19+00:00</updated_at>
+                  <created_at type="datetime">2007-02-05T15:52:33+00:00</created_at>
+                  <searched_for_at type="datetime">2007-03-05T02:57:13+00:00</searched_for_at>
+                  <image_uploaded_at type="datetime">2014-03-05T18:35:56+00:00</image_uploaded_at>
+                  <user_id type="integer">3145554</user_id>
+                  <gender>M</gender>
+                  <country_code>US</country_code>
+                  <born_at type="date">1975-12-19</born_at>
+                  <died_at type="datetime" nil="true"/>
+                  <about>Brandon’s major books for the second half of 2016 are &lt;i&gt;[b:The Dark Talent|18714787],&lt;/i&gt; the final volume in Alcatraz Smedry’s autobiographical account of his battle against the Evil Librarians who secretly rule our world, and
+                    &lt;i&gt;[b:Arcanum Unbounded|28595941],&lt;/i&gt; the collection of short fiction in the Cosmere universe that includes the Mistborn series and the Stormlight Archive, among others. This collection features &lt;i&gt;[b:The Emperor’s
+                    Soul|13578175],&lt;/i&gt; &lt;i&gt;[b:Mistborn: Secret History|28698036],&lt;/i&gt; and a brand-new Stormlight Archive novella, &lt;i&gt;Edgedancer&lt;/i&gt;. Earlier this year he released &lt;i&gt;[b:Calamity|15704486],&lt;/i&gt; the finale of the
+                    #1 New York Times bestselling Reckoners trilogy that began with &lt;i&gt;[b:Steelheart|17182126]&lt;/i&gt;. Brandon Sanderson was born in 1975 in Lincoln, Nebraska. As a child Brandon enjoyed reading, but he lost interest in the types of titles often
+                    suggested to him, and by junior high he never cracked a book if he could help it. This changed when an eighth grade teacher gave him &lt;i&gt;[b:Dragonsbane|176268]&lt;/i&gt; by [a:Barbara Hambly|10333]. Brandon was working on his thirteenth novel
+                    when Moshe Feder at Tor Books bought the sixth he had written. Tor has published &lt;i&gt;[b:Elantris|68427],&lt;/i&gt; the Mistborn trilogy and its followup &lt;i&gt;[b:The Alloy of Law|10803121],&lt;/i&gt; &lt;i&gt;[b:Warbreaker|1268479],&lt;/i&gt;
+                    and &lt;i&gt;[b:The Way of Kings|7235533]&lt;/i&gt; and &lt;i&gt;[b:Words of Radiance|11543195],&lt;/i&gt; the first two in the planned ten-volume series The Stormlight Archive. He was chosen to complete [a:Robert Jordan|6252]’s Wheel of Time series;
+                    2009’s &lt;i&gt;[b:The Gathering Storm|1166599]&lt;/i&gt; and 2010’s &lt;i&gt;[b:Towers of Midnight|8253920]&lt;/i&gt; were followed by the final book in the series, &lt;i&gt;[b:A Memory of Light|1166599],&lt;/i&gt; in January 2013. Four books in his
+                    middle-grade &lt;i&gt;[b:Alcatraz vs. the Evil Librarians|623976]&lt;/i&gt; series have been released in new editions by Starscape, and his novella &lt;i&gt;[b:Infinity Blade Awakening|12796771]&lt;/i&gt; was an ebook bestseller for Epic Games
+                    accompanying their acclaimed &lt;i&gt;Infinity Blade&lt;/i&gt; iOS video game series. Two more novellas, &lt;i&gt;[b:Legion|13452375]&lt;/i&gt; and &lt;i&gt;[b:The Emperor’s Soul|13578175],&lt;/i&gt; were released by Subterranean Press and Tachyon
+                    Publications in 2012, and 2013 brought two young adult novels, &lt;i&gt;[b:The Rithmatist|10137823]&lt;/i&gt; from Tor and &lt;i&gt;[b:Steelheart|17182126]&lt;/i&gt; from Delacorte. The only author to make the short list for the David Gemmell Legend
+                    Award six times in four years, Brandon won that award in 2011 for &lt;i&gt;The Way of Kings&lt;/i&gt;. &lt;i&gt;The Emperor’s Soul&lt;/i&gt; won the 2013 Hugo Award for Best Novella. He has appeared on the &lt;i&gt;New York Times&lt;/i&gt;
+                    Best-Seller List multiple times, with five novels hitting the #1 spot. Currently living in Utah with his wife and children, Brandon teaches creative writing at Brigham Young University.</about>
+                  <uploader_user_id type="integer">3145554</uploader_user_id>
+                  <image_copyright>The photo is © 2014 Dragonsteel Entertainment, LLC, which is Brandon Sanderson's corporation.</image_copyright>
+                  <influences></influences>
+                  <url>http://brandonsanderson.com</url>
+                  <genre1>Science Fiction &amp; Fantasy</genre1>
+                  <genre2>Young Adult</genre2>
+                  <genre3></genre3>
+                  <books_count type="integer">1750</books_count>
+                  <reviews_count type="integer">4088121</reviews_count>
+                  <ratings_sum type="integer">10133724</ratings_sum>
+                  <works_count type="integer">203</works_count>
+                  <hometown>Lincoln, Nebraska</hometown>
+                  <rating_dist>5:23167|4:19143|3:6662|2:1096|1:240|total:50308</rating_dist>
+                  <s3_image_at type="datetime">2015-05-14T23:07:05+00:00</s3_image_at>
+                  <ratings_count type="integer">2315674</ratings_count>
+                  <text_reviews_count type="integer">152148</text_reviews_count>
+                  <author_program_at type="datetime">2010-01-19T19:15:01+00:00</author_program_at>
+                  <postal_code nil="true"/>
+                  <fanships_count type="integer">23279</fanships_count>
+                  <best_book_id type="integer">68428</best_book_id>
+                  <name_language_code nil="true"/>
+                  <sort_by_name>sanderson, brandon</sort_by_name>
+                  <shelf_display_name>Sanderson, Brandon</shelf_display_name>
+                  <gender_custom nil="true"/>
+                  <gender_pronoun nil="true"/>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+    </updates>
+    <user_statuses></user_statuses>
+  </user>
+
+</GoodreadsResponse>

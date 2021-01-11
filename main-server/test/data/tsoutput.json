@@ -1,0 +1,24 @@
+[{
+  "threshold": 0.7,
+  "name": "MyShelf Demo Object",
+  "numObjects": 17
+}, {
+  "name": "WIRELESS",
+  "class_name": "book",
+  "word_data_array": [{
+    "centre_x": 17.5,
+    "word": "WIRELESS\n",
+    "centre_y": 119.0,
+    "height": 11
+  }, {
+    "centre_x": 18.5,
+    "word": "WIRELESS",
+    "centre_y": 119.0,
+    "height": 11
+  }],
+  "height": 0.8146464228630066,
+  "width": 0.8726754784584045,
+  "score": 1.0,
+  "y": 0.24596354365348816,
+  "x": 0.827167809009552
+}]

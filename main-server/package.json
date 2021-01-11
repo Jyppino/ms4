@@ -1,0 +1,32 @@
+{
+  "name": "myshelf-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "test": "nyc mocha --exit"
+  },
+  "dependencies": {
+    "connect-mongo": "^2.0.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-session": "^1.15.6",
+    "fast-xml-parser": "^3.10.0",
+    "hbs": "~4.0.1",
+    "http-errors": "~1.6.2",
+    "mongoose": "^5.0.18",
+    "morgan": "~1.9.0",
+    "multer": "^1.3.0",
+    "nodemon": "^1.17.5",
+    "passport": "^0.4.0",
+    "passport-goodreads": "^1.0.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2",
+    "sinon": "^5.0.10"
+  }
+}

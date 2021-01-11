@@ -1,0 +1,131 @@
+[{
+  "height": 0.8251290321350098,
+  "width": 0.9438163042068481,
+  "y": 0.2586466670036316,
+  "x": 0.8765541911125183,
+  "id": 39205402,
+  "title": "Mobile Broadcasting with Wimax: Principles, Technology, and Applications",
+  "authors": [{
+    "id": 756520,
+    "name": "Amitabh Kumar",
+    "role": "Author"
+  }],
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+}, {
+  "height": 0.8528348207473755,
+  "width": 0.1040971651673317,
+  "y": 0.24794314801692963,
+  "x": 0.03185885772109032,
+  "id": 16987872,
+  "title": "Resource Allocation for Wireless Networks: Basics, Techniques, and Applications",
+  "authors": [{
+    "id": 1305112,
+    "name": "Zhu Han",
+    "role": "Author"
+  }],
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+}, {
+  "height": 0.8555329442024231,
+  "width": 0.16846643388271332,
+  "y": 0.1799323558807373,
+  "x": 0.10755284875631332,
+  "id": 2310877,
+  "title": "Managing and Securing a Cisco Structured Wireless-Aware Network",
+  "authors": [{
+    "id": 22756,
+    "name": "David Wall",
+    "role": "Author"
+  }],
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+}, {
+  "height": 0.8302634358406067,
+  "width": 0.6294770836830139,
+  "y": 0.25272059440612793,
+  "x": 0.5845767259597778,
+  "id": 4449075,
+  "title": "Platform Interference in Wireless Systems: Models, Measurement, and Mitigation",
+  "authors": [{
+    "id": 1858092,
+    "name": "Kevin Slattery",
+    "role": "Author"
+  }],
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+}, {
+  "height": 0.8308565616607666,
+  "width": 0.5862112641334534,
+  "y": 0.2444845587015152,
+  "x": 0.5298497080802917,
+  "id": 4132839,
+  "title": "The Evolved Packet System (EPS): The LTE and SAE Evolution of 3G UMTS",
+  "authors": [{
+    "id": 1744111,
+    "name": "Pierre Lescuyer",
+    "role": "Author"
+  }],
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+}, {
+  "height": 0.8413661122322083,
+  "width": 0.24208907783031464,
+  "y": 0.2463097721338272,
+  "x": 0.16563495993614197,
+  "id": 775773,
+  "title": "Introduction to Wireless Systems",
+  "authors": [{
+    "id": 408122,
+    "name": "P.M. Shankar",
+    "role": "Author"
+  }],
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+}, {
+  "height": 0.8499781489372253,
+  "width": 0.3914625346660614,
+  "y": 0.26348111033439636,
+  "x": 0.34954002499580383,
+  "id": 3513048,
+  "title": "Next Generation Wireless Applications: Creating Mobile Applications in a Web 2.0 and Mobile 2.0 World",
+  "authors": [{
+    "id": 374109,
+    "name": "Paul Golding",
+    "role": "Author"
+  }],
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+}, {
+  "height": 0.8243574500083923,
+  "width": 0.8276585340499878,
+  "y": 0.2500709891319275,
+  "x": 0.7838323712348938,
+  "id": 5226027,
+  "title": "Wireless",
+  "authors": [{
+    "id": 8794,
+    "name": "Charles Stross",
+    "role": "Author"
+  }],
+  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+}, {
+  "height": 0.8195931911468506,
+  "width": 0.9834598898887634,
+  "y": 0.2148970365524292,
+  "x": 0.9433791637420654,
+  "id": 8483670,
+  "title": "De eerste bron",
+  "authors": [{
+    "id": 4874418,
+    "name": "Pierdomenico Baccalario",
+    "role": "Author"
+  }],
+  "image_url": "https://images.gr-assets.com/books/1344688245m/8483670.jpg"
+}, {
+  "height": 0.8530415296554565,
+  "width": 0.03522137552499771,
+  "y": 0.20283429324626923,
+  "x": 0,
+  "id": 1686162,
+  "title": "The Tale of Mrs. Tittlemouse (Potter 23 Tales, Book 11)",
+  "authors": [{
+    "id": 11593,
+    "name": "Beatrix Potter",
+    "role": "Author"
+  }],
+  "image_url": "https://images.gr-assets.com/books/1445063915m/1686162.jpg"
+}]

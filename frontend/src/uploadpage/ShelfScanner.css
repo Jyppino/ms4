@@ -1,0 +1,41 @@
+.scanner {
+	height: 700px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+	padding: 50px;
+
+}
+
+.helperText {
+	position: relative;
+	width: 100%;
+	text-align: center;
+}
+
+.addTools {
+	position: relative;
+	height: 50px;
+}
+
+.addAllButton {
+	position: absolute;
+	display: inline;
+	right: 4%;
+	top: 6px;
+}
+
+.scannerDropwdown {
+	position: absolute;
+	display: inline;
+	left: 4%;
+}
+
+#canvasholder {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    margin : auto;
+}

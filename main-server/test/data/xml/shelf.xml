@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key>
+      <![CDATA[k2XjsbH1V1JBKR7LyAXg]]>
+    </key>
+    <method>
+      <![CDATA[review_list]]>
+    </method>
+  </Request>
+  <books start="1" end="20" total="32" numpages="2" currentpage="1">
+    <book>
+      <id type="integer">11127</id>
+      <isbn>0066238501</isbn>
+      <isbn13>9780066238500</isbn13>
+      <text_reviews_count type="integer">7639</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.RGVn_JJc-13kYTdQMjT5Fw</uri>
+      <title>The Chronicles of Narnia (Chronicles of Narnia, #1-7)</title>
+      <title_without_series>The Chronicles of Narnia</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1449868701m/11127.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1449868701s/11127.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia</link>
+      <num_pages>767</num_pages>
+      <format>Paperback</format>
+      <edition_information>Reissue Edition</edition_information>
+      <publisher>HarperCollins</publisher>
+      <publication_day>16</publication_day>
+      <publication_year>2002</publication_year>
+      <publication_month>9</publication_month>
+      <average_rating>4.25</average_rating>
+      <ratings_count>427632</ratings_count>
+      <description>Journeys to the end of the world, fantastic creatures, and epic battles between good and evil—what more could any reader ask for in one book? The book that has it all is &lt;i&gt;The Lion, the Witch and the Wardrobe&lt;/i&gt;, written in
+        1949 by Clive Staples Lewis. But Lewis did not stop there. Six more books followed, and together they became known as &lt;i&gt;The Chronicles of Narnia.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;For the past fifty years, &lt;i&gt;The Chronicles of
+        Narnia&lt;/i&gt; have transcended the fantasy genre to become part of the canon of classic literature. Each of the seven books is a masterpiece, drawing the reader into a land where magic meets reality, and the result is a fictional world whose scope
+        has fascinated generations.&lt;br /&gt;&lt;br /&gt;This edition presents all seven books—unabridged—in one impressive volume. The books are presented here in chronlogical order, each chapter graced with an illustration by the original artist, Pauline
+        Baynes. Deceptively simple and direct, &lt;i&gt;The Chronicles of Narnia&lt;/i&gt; continue to captivate fans with adventures, characters, and truths that speak to readers of all ages, even fifty years after they were first published.</description>
+      <authors>
+        <author>
+          <id>1069006</id>
+          <name>C.S. Lewis</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1367519078p5/1069006.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1367519078p2/1069006.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]>
+          </link>
+          <average_rating>4.14</average_rating>
+          <ratings_count>4788561</ratings_count>
+          <text_reviews_count>104940</text_reviews_count>
+        </author>
+      </authors>
+      <published>2002</published>
+      <work>
+        <id>781271</id>
+        <uri>kca://work/amzn1.gr.work.v1.tF-IQBM8_LweTg0PGnMqrA</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">434631</id>
+      <isbn>0525477993</isbn>
+      <isbn13>9780525477990</isbn13>
+      <text_reviews_count type="integer">323</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.FvFk37WdnENWrTVVjYTepg</uri>
+      <title>Freak Show</title>
+      <title_without_series>Freak Show</title_without_series>
+      <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+      <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/434631.Freak_Show</link>
+      <num_pages></num_pages>
+      <format></format>
+      <edition_information/>
+      <publisher></publisher>
+      <publication_day></publication_day>
+      <publication_year></publication_year>
+      <publication_month></publication_month>
+      <average_rating>3.82</average_rating>
+      <ratings_count>3680</ratings_count>
+      <description>Billy Bloom is gay, but it's mostly theoretical, as he hasn't had much experience. When he has to move to Florida, he can't believe his bad luck. His new school is a mix of bible belles, amberzombies, and football heroes -- none of which
+        are exactly his type. &lt;br /&gt;&lt;br /&gt;Billy's efforts to fit in and stand out at the same time are both hilarious and heart warming. In this novel from adult author and media personality James St. James, readers are in for a wild ride as he
+        tells Billy's fascinating story of bravado, pain, and unexpected love, inspired by his own experiences.</description>
+      <authors>
+        <author>
+          <id>44927</id>
+          <name>James St. James</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1362919625p5/44927.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1362919625p2/44927.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/44927.James_St_James]]>
+          </link>
+          <average_rating>4.00</average_rating>
+          <ratings_count>10569</ratings_count>
+          <text_reviews_count>769</text_reviews_count>
+        </author>
+      </authors>
+      <published></published>
+      <work>
+        <id>423566</id>
+        <uri>kca://work/amzn1.gr.work.v1.pwX99HG2mvkXoqGYfODqNw</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">18079719</id>
+      <isbn>0525426035</isbn>
+      <isbn13>9780525426035</isbn13>
+      <text_reviews_count type="integer">2688</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.6iLcpCdYNYl-_5LIT93ZPA</uri>
+      <title>Grasshopper Jungle</title>
+      <title_without_series>Grasshopper Jungle</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1373059909m/18079719.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1373059909s/18079719.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/18079719-grasshopper-jungle</link>
+      <num_pages>388</num_pages>
+      <format></format>
+      <edition_information/>
+      <publisher>Dutton Books</publisher>
+      <publication_day></publication_day>
+      <publication_year></publication_year>
+      <publication_month></publication_month>
+      <average_rating>3.65</average_rating>
+      <ratings_count>14792</ratings_count>
+      <description>Sixteen-year-old Austin Szerba interweaves the story of his Polish legacy with the story of how he and his best friend , Robby, brought about the end of humanity and the rise of an army of unstoppable, six-foot tall praying mantises in
+        small-town Iowa.&lt;br /&gt;&lt;br /&gt;To make matters worse, Austin's hormones are totally oblivious; they don't care that the world is in utter chaos: Austin is in love with his girlfriend, Shann, but remains confused about his sexual orientation.
+        He's stewing in a self-professed constant state of maximum horniness, directed at both Robby and Shann. Ultimately, it's up to Austin to save the world and propagate the species in this sci-fright journey of survival, sex, and the complex realities
+        of the human condition.</description>
+      <authors>
+        <author>
+          <id>1383409</id>
+          <name>Andrew Smith</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1455127379p5/1383409.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1455127379p2/1383409.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/1383409.Andrew_Smith]]>
+          </link>
+          <average_rating>3.87</average_rating>
+          <ratings_count>58568</ratings_count>
+          <text_reviews_count>12330</text_reviews_count>
+        </author>
+      </authors>
+      <published></published>
+      <work>
+        <id>19209831</id>
+        <uri>kca://work/amzn1.gr.work.v1.OGOfzmttoMOVQnLCgghMMw</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">23230</id>
+      <isbn>0375844406</isbn>
+      <isbn13>9780375844409</isbn13>
+      <text_reviews_count type="integer">943</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.ziqLGXPLo-fJjtzBzHjKqw</uri>
+      <title>Naomi and Ely's No Kiss List</title>
+      <title_without_series>Naomi and Ely's No Kiss List</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1320498121m/23230.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1320498121s/23230.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/23230.Naomi_and_Ely_s_No_Kiss_List</link>
+      <num_pages>230</num_pages>
+      <format></format>
+      <edition_information/>
+      <publisher></publisher>
+      <publication_day></publication_day>
+      <publication_year></publication_year>
+      <publication_month></publication_month>
+      <average_rating>3.44</average_rating>
+      <ratings_count>14437</ratings_count>
+      <description>Naomi loves Ely.&lt;br /&gt;And she's kinda &lt;i&gt;in&lt;/i&gt; love with him.&lt;br /&gt;&lt;br /&gt;Ely loves Naomi.&lt;br /&gt;But he prefers to be &lt;i&gt;in&lt;/i&gt; love with boys.&lt;br /&gt;&lt;br /&gt;Naomi and Ely have been
+        inseparable since childhood - partially because they've grown up across the hall from each other in the same Manhattan apartment building, and also because they're best friends. Soul mates. Or are they? Just to be safe, they've created a &lt;b&gt;NO
+        KISS LIST&lt;/b&gt; - their list of people who are absolutely off-kissing-limits for both of them. The &lt;b&gt;NO KISS LIST&lt;/b&gt; protects their friendship and ensures that nothing will rock the foundation of Naomi and Ely: the
+        institution.&lt;br /&gt;&lt;br /&gt;Until Ely kisses Naomi's boyfriend. And a fateful piece of chewing gum in the wrong place at the wrong time changes everything.&lt;br /&gt;&lt;br /&gt;Soon a rift of universal proportions threatens to destroy their
+        friendship, and it remains to be seen whether Naomi and Ely can find their way toward new soul-mate prospects...and back to one another.&lt;br /&gt;&lt;br /&gt;Rachel Cohn and David Levithan have written a love story about love of all kinds, one that
+        reminds us that any great friendship can be as confusing, treacherous, inspiring, and wonderful as any great romance.</description>
+      <authors>
+        <author>
+          <id>13139</id>
+          <name>Rachel Cohn</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1224298697p5/13139.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1224298697p2/13139.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/13139.Rachel_Cohn]]>
+          </link>
+          <average_rating>3.70</average_rating>
+          <ratings_count>193307</ratings_count>
+          <text_reviews_count>16579</text_reviews_count>
+        </author>
+      </authors>
+      <published></published>
+      <work>
+        <id>2891169</id>
+        <uri>kca://work/amzn1.gr.work.v1.gmNx_CsF52c4KmpZ1DQPMw</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">22896551</id>
+      <isbn>0062335316</isbn>
+      <isbn13>9780062335319</isbn13>
+      <text_reviews_count type="integer">1478</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.JXDYY3szVgACa6D--WgB4w</uri>
+      <title>None of the Above</title>
+      <title_without_series>None of the Above</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1412996409m/22896551.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1412996409s/22896551.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/22896551-none-of-the-above</link>
+      <num_pages>352</num_pages>
+      <format>Hardcover</format>
+      <edition_information/>
+      <publisher>Balzer + Bray</publisher>
+      <publication_day>7</publication_day>
+      <publication_year>2015</publication_year>
+      <publication_month>4</publication_month>
+      <average_rating>3.89</average_rating>
+      <ratings_count>9637</ratings_count>
+      <description>A groundbreaking story about a teenage girl who discovers she was born intersex... and what happens when her secret is revealed to the entire school. Incredibly compelling and sensitively told, None of the Above is a thought-provoking
+        novel that explores what it means to be a boy, a girl, or something in between.&lt;br /&gt;&lt;br /&gt;What if everything you knew about yourself changed in an instant?&lt;br /&gt;&lt;br /&gt;When Kristin Lattimer is voted homecoming queen, it seems
+        like another piece of her ideal life has fallen into place. She's a champion hurdler with a full scholarship to college and she's madly in love with her boyfriend. In fact, she's decided that she's ready to take things to the next level with
+        him.&lt;br /&gt;&lt;br /&gt;But Kristin's first time isn't the perfect moment she's planned—something is very wrong. A visit to the doctor reveals the truth: Kristin is intersex, which means that though she outwardly looks like a girl, she has male
+        chromosomes, not to mention boy "parts."&lt;br /&gt;&lt;br /&gt;Dealing with her body is difficult enough, but when her diagnosis is leaked to the whole school, Kristin's entire identity is thrown into question. As her world unravels, can she come to
+        terms with her new self?</description>
+      <authors>
+        <author>
+          <id>7374721</id>
+          <name>I.W. Gregorio</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1384831000p5/7374721.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1384831000p2/7374721.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/7374721.I_W_Gregorio]]>
+          </link>
+          <average_rating>3.90</average_rating>
+          <ratings_count>9917</ratings_count>
+          <text_reviews_count>1742</text_reviews_count>
+        </author>
+      </authors>
+      <published>2015</published>
+      <work>
+        <id>26645153</id>
+        <uri>kca://work/amzn1.gr.work.v1.giVOnSiKGi4JMZKcI2RutA</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">6567017</id>
+      <isbn>0525421580</isbn>
+      <isbn13>9780525421580</isbn13>
+      <text_reviews_count type="integer">13794</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.Ie1BECwfllB8CkAEzm1U3w</uri>
+      <title>Will Grayson, Will Grayson (Will Grayson, Will Grayson, #1)</title>
+      <title_without_series>Will Grayson, Will Grayson</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1368393890m/6567017.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1368393890s/6567017.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/6567017-will-grayson-will-grayson</link>
+      <num_pages>310</num_pages>
+      <format>Hardcover</format>
+      <edition_information/>
+      <publisher>Dutton Books</publisher>
+      <publication_day>6</publication_day>
+      <publication_year>2010</publication_year>
+      <publication_month>4</publication_month>
+      <average_rating>3.82</average_rating>
+      <ratings_count>281671</ratings_count>
+      <description>Will Grayson meets Will Grayson. One cold night, in a most unlikely corner of Chicago, two strangers are about to cross paths. From that moment on, their world will collide and lives intertwine.&lt;br /&gt;&lt;br /&gt;It's not that far
+        from Evanston to Naperville, but Chicago suburbanites Will Grayson and Will Grayson might as well live on different planets. When fate delivers them both to the same surprising crossroads, the Will Graysons find their lives overlapping and hurtling
+        in new and unexpected directions. With a push from friends new and old - including the massive, and massively fabulous, Tiny Cooper, offensive lineman and musical theater auteur extraordinaire - Will and Will begin building toward respective romantic
+        turns-of-heart and the epic production of history's most awesome high school musical.</description>
+      <authors>
+        <author>
+          <id>1406384</id>
+          <name>John Green</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]>
+          </link>
+          <average_rating>4.08</average_rating>
+          <ratings_count>5306221</ratings_count>
+          <text_reviews_count>311974</text_reviews_count>
+        </author>
+      </authors>
+      <published>2010</published>
+      <work>
+        <id>6759965</id>
+        <uri>kca://work/amzn1.gr.work.v1.3JXnj5HUIH9bxTWyXHLk1A</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">35832073</id>
+      <isbn nil="true"/>
+      <isbn13 nil="true"/>
+      <text_reviews_count type="integer">227</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.HxMU9hUGmxE90Si2Q46-rg</uri>
+      <title>Calypso</title>
+      <title_without_series>Calypso</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1526666936m/35832073.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1526666936s/35832073.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/35832073-calypso</link>
+      <num_pages></num_pages>
+      <format>Audiobook</format>
+      <edition_information/>
+      <publisher></publisher>
+      <publication_day>29</publication_day>
+      <publication_year>2018</publication_year>
+      <publication_month>5</publication_month>
+      <average_rating>4.47</average_rating>
+      <ratings_count>2419</ratings_count>
+      <description>David Sedaris returns with his most deeply personal and darkly hilarious book.&lt;br /&gt;&lt;br /&gt;If you've ever laughed your way through David Sedaris's cheerfully misanthropic stories, you might think you know what you're getting
+        with Calypso. You'd be wrong. &lt;br /&gt;&lt;br /&gt;When he buys a beach house on the Carolina coast, Sedaris envisions long, relaxing vacations spent playing board games and lounging in the sun with those he loves most. And life at the Sea
+        Section, as he names the vacation home, is exactly as idyllic as he imagined, except for one tiny, vexing realization: it's impossible to take a vacation from yourself.&lt;br /&gt;&lt;br /&gt;With Calypso, Sedaris sets his formidable powers of
+        observation toward middle age and mortality. Make no mistake: these stories are very, very funny--it's a book that can make you laugh 'til you snort, the way only family can. Sedaris's powers of observation have never been sharper, and his ability to
+        shock readers into laughter unparalleled. But much of the comedy here is born out of that vertiginous moment when your own body betrays you and you realize that the story of your life is made up of more past than future.&lt;br /&gt;&lt;br /&gt;This
+        is beach reading for people who detest beaches, required reading for those who loathe small talk and love a good tumor joke. Calypso is simultaneously Sedaris's darkest and warmest book yet--and it just might be his very best.</description>
+      <authors>
+        <author>
+          <id>2849</id>
+          <name>David Sedaris</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1213737698p5/2849.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1213737698p2/2849.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/2849.David_Sedaris]]>
+          </link>
+          <average_rating>3.98</average_rating>
+          <ratings_count>1507558</ratings_count>
+          <text_reviews_count>61029</text_reviews_count>
+        </author>
+      </authors>
+      <published>2018</published>
+      <work>
+        <id>57338398</id>
+        <uri>kca://work/amzn1.gr.work.v1.DWILqhNlWZ1NewiOLR6CnQ</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">19547856</id>
+      <isbn>0062348671</isbn>
+      <isbn13>9780062348678</isbn13>
+      <text_reviews_count type="integer">17698</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.OVuucx6xHGG3ouVCLDN6eA</uri>
+      <title>Simon vs. the Homo Sapiens Agenda (Creekwood, #1)</title>
+      <title_without_series>Simon vs. the Homo Sapiens Agenda</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1402915678m/19547856.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1402915678s/19547856.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/19547856-simon-vs-the-homo-sapiens-agenda</link>
+      <num_pages>303</num_pages>
+      <format>Hardcover</format>
+      <edition_information/>
+      <publisher>Balzer + Bray</publisher>
+      <publication_day>7</publication_day>
+      <publication_year>2015</publication_year>
+      <publication_month>4</publication_month>
+      <average_rating>4.33</average_rating>
+      <ratings_count>136185</ratings_count>
+      <description>Sixteen-year-old and not-so-openly gay Simon Spier prefers to save his drama for the school musical. But when an email falls into the wrong hands, his secret is at risk of being thrust into the spotlight. Now Simon is actually being
+        blackmailed: if he doesn’t play wingman for class clown Martin, his sexual identity will become everyone’s business. Worse, the privacy of Blue, the pen name of the boy he’s been emailing, will be compromised.&lt;br /&gt;&lt;br /&gt;With some messy
+        dynamics emerging in his once tight-knit group of friends, and his email correspondence with Blue growing more flirtatious every day, Simon’s junior year has suddenly gotten all kinds of complicated. Now, change-averse Simon has to find a way to step
+        out of his comfort zone before he’s pushed out—without alienating his friends, compromising himself, or fumbling a shot at happiness with the most confusing, adorable guy he’s never met.</description>
+      <authors>
+        <author>
+          <id>7579036</id>
+          <name>Becky Albertalli</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1392414949p5/7579036.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1392414949p2/7579036.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/7579036.Becky_Albertalli]]>
+          </link>
+          <average_rating>4.27</average_rating>
+          <ratings_count>178260</ratings_count>
+          <text_reviews_count>31767</text_reviews_count>
+        </author>
+      </authors>
+      <published>2015</published>
+      <work>
+        <id>27679579</id>
+        <uri>kca://work/amzn1.gr.work.v1.DCarnsRzF6vFqZ1acC2wwQ</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">4948</id>
+      <isbn>0241003008</isbn>
+      <isbn13>9780241003008</isbn13>
+      <text_reviews_count type="integer">5830</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.4W1aOkbxWDUuGIf-vrcXjQ</uri>
+      <title>The Very Hungry Caterpillar</title>
+      <title_without_series>The Very Hungry Caterpillar</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1517550266m/4948.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1517550266s/4948.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/4948.The_Very_Hungry_Caterpillar</link>
+      <num_pages>26</num_pages>
+      <format>Board book</format>
+      <edition_information/>
+      <publisher>Puffin Books</publisher>
+      <publication_day/>
+      <publication_year>1994</publication_year>
+      <publication_month/>
+      <average_rating>4.29</average_rating>
+      <ratings_count>330966</ratings_count>
+      <description>THE all-time classic picture book, from generation to generation, sold somewhere in the world every 30 seconds! Have you shared it with a child or grandchild in your life?&lt;br /&gt;&lt;br /&gt;Including a special feature, dye cuts,
+        this beautiful board book edition, perfect for teaching the days of the week, offers readers an interactive experience.</description>
+      <authors>
+        <author>
+          <id>3362</id>
+          <name>Eric Carle</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1224294488p5/3362.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1224294488p2/3362.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]>
+          </link>
+          <average_rating>4.21</average_rating>
+          <ratings_count>745793</ratings_count>
+          <text_reviews_count>19300</text_reviews_count>
+        </author>
+      </authors>
+      <published>1994</published>
+      <work>
+        <id>3144982</id>
+        <uri>kca://work/amzn1.gr.work.v1.H6jFmETAND8g9kpj-JhKxw</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">6310</id>
+      <isbn>0142403881</isbn>
+      <isbn13>9780142403884</isbn13>
+      <text_reviews_count type="integer">6210</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.AYtCuHzL4XzUx7e1h3VUPQ</uri>
+      <title>Charlie and the Chocolate Factory (Charlie Bucket, #1)</title>
+      <title_without_series>Charlie and the Chocolate Factory</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1309211401m/6310.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1309211401s/6310.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/6310.Charlie_and_the_Chocolate_Factory</link>
+      <num_pages>176</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Puffin</publisher>
+      <publication_day>2</publication_day>
+      <publication_year>2005</publication_year>
+      <publication_month>6</publication_month>
+      <average_rating>4.11</average_rating>
+      <ratings_count>537143</ratings_count>
+      <description>Willy Wonka's famous chocolate factory is opening at last!&lt;br /&gt;&lt;br /&gt;But only five lucky children will be allowed inside. And the winners are: Augustus Gloop, an enormously fat boy whose hobby is eating; Veruca Salt, a
+        spoiled-rotten brat whose parents are wrapped around her little finger; Violet Beauregarde, a dim-witted gum-chewer with the fastest jaws around; Mike Teavee, a toy pistol-toting gangster-in-training who is obsessed with television; and Charlie
+        Bucket, Our Hero, a boy who is honest and kind, brave and true, and good and ready for the wildest time of his life!</description>
+      <authors>
+        <author>
+          <id>4273</id>
+          <name>Roald Dahl</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1311554908p5/4273.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1311554908p2/4273.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/4273.Roald_Dahl]]>
+          </link>
+          <average_rating>4.11</average_rating>
+          <ratings_count>2552751</ratings_count>
+          <text_reviews_count>71847</text_reviews_count>
+        </author>
+      </authors>
+      <published>2005</published>
+      <work>
+        <id>2765786</id>
+        <uri>kca://work/amzn1.gr.work.v1.HNpmKFA4c-HzbZmYVdLJeQ</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">12999306</id>
+      <isbn>1426834152</isbn>
+      <isbn13>9781426834158</isbn13>
+      <text_reviews_count type="integer">476</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.U4LGqU50Pxw0sOr02N8h7Q</uri>
+      <title>The Goddess Hunt (Goddess Test, #1.5)</title>
+      <title_without_series>The Goddess Hunt</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1345545101m/12999306.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1345545101s/12999306.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/12999306-the-goddess-hunt</link>
+      <num_pages>92</num_pages>
+      <format>ebook</format>
+      <edition_information>Harlequin Teen</edition_information>
+      <publisher>Harlequin Teen</publisher>
+      <publication_day>1</publication_day>
+      <publication_year>2012</publication_year>
+      <publication_month>3</publication_month>
+      <average_rating>3.81</average_rating>
+      <ratings_count>8499</ratings_count>
+      <description>A vacation in Greece sounds like the perfect way for Kate Winters to spend her first sabbatical away from the Underworld...until she gets caught up in an immortal feud going back millennia. Castor and Pollux have been on the run from
+        Zeus and Hades' wrath for centuries, hiding from the gods who hunt them. The last person they trust is Kate, the new Queen of the Underworld. Nevertheless, she is determined to help their cause. But when it comes to dealing with immortals, Kate still
+        has a lot to learn....</description>
+      <authors>
+        <author>
+          <id>767317</id>
+          <name>Aimee Carter</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1290233298p5/767317.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1290233298p2/767317.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/767317.Aimee_Carter]]>
+          </link>
+          <average_rating>3.90</average_rating>
+          <ratings_count>132534</ratings_count>
+          <text_reviews_count>12546</text_reviews_count>
+        </author>
+      </authors>
+      <published>2012</published>
+      <work>
+        <id>18160064</id>
+        <uri>kca://work/amzn1.gr.work.v1.yhEItSbs8mwMCWNtDcgQKw</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">9736930</id>
+      <isbn>0062060554</isbn>
+      <isbn13>9780062060556</isbn13>
+      <text_reviews_count type="integer">16191</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.04n3FLWSJxcKbvM0j8k3PA</uri>
+      <title>Before I Go to Sleep</title>
+      <title_without_series>Before I Go to Sleep</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1358353512m/9736930.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1358353512s/9736930.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/9736930-before-i-go-to-sleep</link>
+      <num_pages>359</num_pages>
+      <format>Hardcover</format>
+      <edition_information/>
+      <publisher>Harper</publisher>
+      <publication_day>14</publication_day>
+      <publication_year>2011</publication_year>
+      <publication_month>6</publication_month>
+      <average_rating>3.88</average_rating>
+      <ratings_count>233438</ratings_count>
+      <description>Christine wakes up every morning in an unfamiliar bed with an unfamiliar man. She looks in the mirror and sees an unfamiliar, middle-aged face. And every morning, the man she has woken up with must explain that he is Ben, he is her
+        husband, she is forty-seven years old, and a terrible accident two decades earlier decimated her ability to form new memories.&lt;br /&gt;&lt;br /&gt;Every day, Christine must begin again the reconstruction of her past. And the closer she gets to the
+        truth, the more unbelievable it seems.</description>
+      <authors>
+        <author>
+          <id>4470653</id>
+          <name>S.J. Watson</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1400661000p5/4470653.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1400661000p2/4470653.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/4470653.S_J_Watson]]>
+          </link>
+          <average_rating>3.84</average_rating>
+          <ratings_count>247427</ratings_count>
+          <text_reviews_count>22356</text_reviews_count>
+        </author>
+      </authors>
+      <published>2011</published>
+      <work>
+        <id>14625976</id>
+        <uri>kca://work/amzn1.gr.work.v1.Kl8wGPixRaJhRRSuuodSwQ</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">6582304</id>
+      <isbn>345353316X</isbn>
+      <isbn13>9783453533165</isbn13>
+      <text_reviews_count type="integer">6</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.aNNcFtvmnq_P50prLUxQOQ</uri>
+      <title>Die Werwölfe</title>
+      <title_without_series>Die Werwölfe</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1327418360m/6582304.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1327418360s/6582304.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/6582304-die-werw-lfe</link>
+      <num_pages>512</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Heyne</publisher>
+      <publication_day/>
+      <publication_year>2009</publication_year>
+      <publication_month/>
+      <average_rating>3.81</average_rating>
+      <ratings_count>78</ratings_count>
+      <description>Europa Anfang des 19. Jahrhunderts: Während sich die Alte Welt von zahllosen Kriegen erholt, kündigen sich tiefgreifende Veränderungen an – die Menschheit steht an der Grenze zur Moderne. Aber noch sind die Traditionen stark und die
+        starren Strukturen brechen nur langsam auf. In dieser Zeit des Wandels schickt sich eine uralte Bedrohung an, die Menschen in den Abgrund zu reißen. Denn in den Schatten der Welt hat etwas überlebt: die Werwölfe …</description>
+      <authors>
+        <author>
+          <id>1332445</id>
+          <name>Christoph Hardebusch</name>
+          <role></role>
+          <image_url nophoto='true'>
+            <![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+          </image_url>
+          <small_image_url nophoto='true'>
+            <![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/1332445.Christoph_Hardebusch]]>
+          </link>
+          <average_rating>3.64</average_rating>
+          <ratings_count>1157</ratings_count>
+          <text_reviews_count>70</text_reviews_count>
+        </author>
+      </authors>
+      <published>2009</published>
+      <work>
+        <id>6775771</id>
+        <uri>kca://work/amzn1.gr.work.v1.AJO3O5CU8mk9cgA7nquoVA</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">13326831</id>
+      <isbn>0547959109</isbn>
+      <isbn13>9780547959108</isbn13>
+      <text_reviews_count type="integer">5173</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.1M937eIdr_WQXx7uf-ee6g</uri>
+      <title>The Testing (The Testing, #1)</title>
+      <title_without_series>The Testing</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1363452191m/13326831.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1363452191s/13326831.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/13326831-the-testing</link>
+      <num_pages>325</num_pages>
+      <format>Hardcover</format>
+      <edition_information/>
+      <publisher>Houghton Mifflin</publisher>
+      <publication_day>4</publication_day>
+      <publication_year>2013</publication_year>
+      <publication_month>6</publication_month>
+      <average_rating>4.05</average_rating>
+      <ratings_count>47671</ratings_count>
+      <description>Keep your friends close and your enemies closer. Isn’t that what they say? But how close is too close when they may be one and the same? &lt;br /&gt;&lt;br /&gt;The Seven Stages War left much of the planet a charred wasteland. The future
+        belongs to the next generation’s chosen few who must rebuild it. But to enter this elite group, candidates must first pass The Testing—their one chance at a college education and a rewarding career. &lt;br /&gt;&lt;br /&gt;Cia Vale is honoured to be
+        chosen as a Testing candidate; eager to prove her worthiness as a University student and future leader of the United Commonwealth. But on the eve of her departure, her father’s advice hints at a darker side to her upcoming studies--trust no one.
+        &lt;br /&gt;&lt;br /&gt;But surely she can trust Tomas, her handsome childhood friend who offers an alliance? Tomas, who seems to care more about her with the passing of every gruelling (and deadly) day of the Testing. &lt;br /&gt;&lt;br /&gt;To
+        survive, Cia must choose: love without truth or life without trust.</description>
+      <authors>
+        <author>
+          <id>4027380</id>
+          <name>Joelle Charbonneau</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1326433815p5/4027380.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1326433815p2/4027380.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/4027380.Joelle_Charbonneau]]>
+          </link>
+          <average_rating>3.95</average_rating>
+          <ratings_count>107571</ratings_count>
+          <text_reviews_count>12447</text_reviews_count>
+        </author>
+      </authors>
+      <published>2013</published>
+      <work>
+        <id>18534001</id>
+        <uri>kca://work/amzn1.gr.work.v1.T2GTrI0xqAGR0gabklhFCg</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">88413</id>
+      <isbn>9023461231</isbn>
+      <isbn13>9789023461234</isbn13>
+      <text_reviews_count type="integer">109</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.mfdjfXU98egwBLbl6KskSg</uri>
+      <title>De ontdekking van de hemel</title>
+      <title_without_series>De ontdekking van de hemel</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1524989153m/88413.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1524989153s/88413.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/88413.De_ontdekking_van_de_hemel</link>
+      <num_pages>905</num_pages>
+      <format>Hardcover</format>
+      <edition_information>BBLiterair</edition_information>
+      <publisher>De Bezige Bij</publisher>
+      <publication_day>13</publication_day>
+      <publication_year>1992</publication_year>
+      <publication_month>10</publication_month>
+      <average_rating>4.17</average_rating>
+      <ratings_count>10036</ratings_count>
+      <description>&lt;i&gt;De ontdekking van de hemel&lt;/i&gt;: Een totaalroman.&lt;br /&gt;Dit monumentale boek, waarin alle thema's en obsessies uit het werk van Harry Mulisch in 65 hoofdstukken bijeenkomen, is tegelijk een psychologische roman, een
+        filosofische roman, een tijdroman, een ontwikkelingsroman, een avonturenroman en een alles overkoepelend mysteriespel.&lt;br /&gt;--back cover</description>
+      <authors>
+        <author>
+          <id>44694</id>
+          <name>Harry Mulisch</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1240151754p5/44694.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1240151754p2/44694.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/44694.Harry_Mulisch]]>
+          </link>
+          <average_rating>3.69</average_rating>
+          <ratings_count>31969</ratings_count>
+          <text_reviews_count>1274</text_reviews_count>
+        </author>
+      </authors>
+      <published>1992</published>
+      <work>
+        <id>85295</id>
+        <uri>kca://work/amzn1.gr.work.v1.os3fD596oF6E3z0XosvfMA</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">7235533</id>
+      <isbn>0765326353</isbn>
+      <isbn13>9780765326355</isbn13>
+      <text_reviews_count type="integer">10826</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.0mHZnKgAN8csmmIVxyhjLg</uri>
+      <title>The Way of Kings (The Stormlight Archive, #1)</title>
+      <title_without_series>The Way of Kings</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1388184640m/7235533.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1388184640s/7235533.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/7235533-the-way-of-kings</link>
+      <num_pages>1007</num_pages>
+      <format>Hardcover</format>
+      <edition_information/>
+      <publisher>Tor Books</publisher>
+      <publication_day>31</publication_day>
+      <publication_year>2010</publication_year>
+      <publication_month>8</publication_month>
+      <average_rating>4.64</average_rating>
+      <ratings_count>195758</ratings_count>
+      <description>&lt;b&gt;From #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Brandon Sanderson, &lt;i&gt;The Way of Kings&lt;/i&gt;, Book One of the Stormlight Archive begins an incredible new saga of epic proportion.&lt;/b&gt;&lt;br
+        /&gt;&lt;br /&gt;Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass
+        retracts into the soilless ground. Cities are built only where the topography offers shelter.&lt;br /&gt;&lt;br /&gt;It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate
+        remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars were fought for them, and won by them.&lt;br /&gt;&lt;br /&gt;One such war rages on a ruined landscape
+        called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he
+        struggles to save his men and to fathom the leaders who consider them expendable.&lt;br /&gt;&lt;br /&gt;Brightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called
+        &lt;i&gt;The Way of Kings&lt;/i&gt;. Troubled by over-powering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity.&lt;br /&gt;&lt;br /&gt;Across the ocean, an untried young woman named Shallan seeks to train under
+        an eminent scholar and notorious heretic, Dalinar's niece, Jasnah. Though she genuinely loves learning, Shallan's motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true
+        cause of the war.&lt;br /&gt;&lt;br /&gt;The result of over ten years of planning, writing, and world-building, &lt;i&gt;The Way of Kings&lt;/i&gt; is but the opening movement of the Stormlight Archive, a bold masterpiece in the making.&lt;br
+        /&gt;&lt;br /&gt;Speak again the ancient oaths:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Life before death.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;Strength before weakness.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;Journey before
+        Destination.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;and return to men the Shards they once bore.&lt;br /&gt;&lt;br /&gt;The Knights Radiant must stand again.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Other Tor books by Brandon
+        Sanderson&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; &lt;u&gt;The Cosmere&lt;/u&gt; &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;The Stormlight Archive&lt;/b&gt;&lt;br /&gt;&lt;i&gt;The Way of Kings&lt;/i&gt;&lt;br
+        /&gt;&lt;i&gt;Words of Radiance&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Edgedancer &lt;/i&gt;(Novella)&lt;br /&gt;&lt;i&gt;Oathbringer&lt;/i&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;The Mistborn trilogy&lt;/b&gt;&lt;br
+        /&gt;&lt;i&gt;Mistborn: The Final Empire&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Well of Ascension&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Hero of Ages&lt;/i&gt;&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;b&gt;Mistborn: The Wax and Wayne
+        series&lt;/b&gt;&lt;br /&gt;&lt;i&gt;Alloy of Law&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Shadows of Self&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Bands of Mourning&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Collection&lt;/b&gt;&lt;br /&gt;&lt;i&gt;Arcanum
+        Unbounded&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Other Cosmere novels&lt;/b&gt;&lt;br /&gt;&lt;i&gt;Elantris&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Warbreaker&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; &lt;u&gt;The Alcatraz vs. the Evil Librarians
+        series&lt;/u&gt; &lt;/b&gt;&lt;br /&gt;&lt;i&gt;Alcatraz vs. the Evil Librarians&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Scrivener's Bones&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Knights of Crystallia&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Shattered
+        Lens&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Dark Talent&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; &lt;u&gt;The Rithmatist series&lt;/u&gt; &lt;/b&gt;&lt;br /&gt;&lt;b&gt; &lt;u&gt;&lt;/u&gt; &lt;/b&gt;&lt;i&gt;The Rithmatist&lt;/i&gt;&lt;br /&gt;&lt;br
+        /&gt;&lt;b&gt;Other books by Brandon Sanderson&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt; &lt;u&gt;The Reckoners&lt;/u&gt; &lt;/b&gt;&lt;br /&gt;&lt;i&gt;Steelheart&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Firefight&lt;/i&gt;&lt;br
+        /&gt;&lt;i&gt;Calamity&lt;/i&gt;</description>
+      <authors>
+        <author>
+          <id>38550</id>
+          <name>Brandon Sanderson</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1394044556p5/38550.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1394044556p2/38550.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/38550.Brandon_Sanderson]]>
+          </link>
+          <average_rating>4.38</average_rating>
+          <ratings_count>2330736</ratings_count>
+          <text_reviews_count>153068</text_reviews_count>
+        </author>
+      </authors>
+      <published>2010</published>
+      <work>
+        <id>8134945</id>
+        <uri>kca://work/amzn1.gr.work.v1.RFggOR2DSfOMBgpwAAwCqQ</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">2854614</id>
+      <isbn>9045101130</isbn>
+      <isbn13>9789045101132</isbn13>
+      <text_reviews_count type="integer">100</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.6IYJcar95_Eiy-Kc-IbFiA</uri>
+      <title>Pluk van de Petteflet</title>
+      <title_without_series>Pluk van de Petteflet</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1203428355m/2854614.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1203428355s/2854614.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/2854614-pluk-van-de-petteflet</link>
+      <num_pages>166</num_pages>
+      <format>Hardcover</format>
+      <edition_information/>
+      <publisher>Querido Kinderboek</publisher>
+      <publication_day/>
+      <publication_year>2008</publication_year>
+      <publication_month/>
+      <average_rating>4.18</average_rating>
+      <ratings_count>5400</ratings_count>
+      <description>Pluk had een klein rood kraanwagentje. Hij reed ermee door de hele stad en zocht naar een huis om in te wonen. Af en toe stopte hij. En dan vroeg hij aan de mensen: 'Weet u niet een huis voor me?' Uiteindelijk vindt hij wat: het torentje
+        van de Petteflet. Daar maakt hij kennis met de Stampertjes, mevrouw Helderder, Aagje, Zaza en nog veel meer.</description>
+      <authors>
+        <author>
+          <id>615182</id>
+          <name>Annie M.G. Schmidt</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1228223279p5/615182.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1228223279p2/615182.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/615182.Annie_M_G_Schmidt]]>
+          </link>
+          <average_rating>4.04</average_rating>
+          <ratings_count>19374</ratings_count>
+          <text_reviews_count>615</text_reviews_count>
+        </author>
+      </authors>
+      <published>2008</published>
+      <work>
+        <id>2880748</id>
+        <uri>kca://work/amzn1.gr.work.v1.zbkkVnaRAVCLo0-Ig8QNfw</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">81992</id>
+      <isbn>1841493341</isbn>
+      <isbn13>9781841493343</isbn13>
+      <text_reviews_count type="integer">373</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.b-HTmxepsO4fuoPbkPszgg</uri>
+      <title>Singularity Sky (Eschaton, #1)</title>
+      <title_without_series>Singularity Sky</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1446324638m/81992.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1446324638s/81992.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/81992.Singularity_Sky</link>
+      <num_pages>389</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Orbit</publisher>
+      <publication_day>3</publication_day>
+      <publication_year>2005</publication_year>
+      <publication_month>2</publication_month>
+      <average_rating>3.82</average_rating>
+      <ratings_count>11855</ratings_count>
+      <description>In the twenty-first century man created the Eschaton, a sentient artificial intelligence. It pushed Earth through the greatest technological evolution ever known, while warning that time travel is forbidden, and transgressors will be
+        eliminated.&lt;br /&gt;&lt;br /&gt;Distant descendants of this ultra high-tech Earth live in parochial simplicity on the far-flung worlds of the New Republic. Their way of life is threatened by the arrival of an alien information plague known as the
+        Festival. As forbidden technologies are literally dropped from the sky, suppressed political factions descend into revolutionary turmoil.&lt;br /&gt;&lt;br /&gt;A battle fleet is sent from Earth to destroy the Festival, but Spaceship engineer Martin
+        Springfield and U.N. diplomat Rachel Mansour have been assigned rather different tasks. Their orders are to diffuse the crisis or to sabotage the New Republic's war-fleet, whatever the cost, before the Eschaton takes hostile action on a galactic
+        scale.&lt;br /&gt;&lt;br /&gt;</description>
+      <authors>
+        <author>
+          <id>8794</id>
+          <name>Charles Stross</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1355510574p5/8794.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1355510574p2/8794.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/8794.Charles_Stross]]>
+          </link>
+          <average_rating>3.89</average_rating>
+          <ratings_count>196791</ratings_count>
+          <text_reviews_count>13034</text_reviews_count>
+        </author>
+      </authors>
+      <published>2005</published>
+      <work>
+        <id>1192005</id>
+        <uri>kca://work/amzn1.gr.work.v1.OZ86MeiJ5u0ykZ8uJ2O_zw</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">311196</id>
+      <isbn>0099465647</isbn>
+      <isbn13>9780099465645</isbn13>
+      <text_reviews_count type="integer">933</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.iru-bqg9BKytdVjYmFujTg</uri>
+      <title>Frederica</title>
+      <title_without_series>Frederica</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1395082866m/311196.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1395082866s/311196.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/311196.Frederica</link>
+      <num_pages>384</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Arrow</publisher>
+      <publication_day>27</publication_day>
+      <publication_year>1992</publication_year>
+      <publication_month>8</publication_month>
+      <average_rating>4.16</average_rating>
+      <ratings_count>15238</ratings_count>
+      <description>LONDON IN "THE SEASON"&lt;br /&gt;&lt;br /&gt;Frederica Merriville and her three siblings have come to London for the glittering social season, in order to give young and beautiful Charis a chance to make a good marriage. Frederica
+        herself, a witty charmer, believes herself happily beyond marriageable age -- she is twenty-four, after all. But when they are introduced to London society by their distant "cousin" Lord Alverstoke, Frederica is amazed to find herself, unknowingly,
+        falling in love. Likewise, Alverstoke, a cold aristocrat, finds himself thoroughly beguiled by Frederica and her young rascal brothers.</description>
+      <authors>
+        <author>
+          <id>18067</id>
+          <name>Georgette Heyer</name>
+          <role></role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1336748892p5/18067.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1336748892p2/18067.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/18067.Georgette_Heyer]]>
+          </link>
+          <average_rating>3.90</average_rating>
+          <ratings_count>315596</ratings_count>
+          <text_reviews_count>26279</text_reviews_count>
+        </author>
+      </authors>
+      <published>1992</published>
+      <work>
+        <id>2128291</id>
+        <uri>kca://work/amzn1.gr.work.v1.Hma40gwWsqA4Glzj3kLGLg</uri>
+      </work>
+    </book>
+
+    <book>
+      <id type="integer">29056083</id>
+      <isbn>0751565350</isbn>
+      <isbn13>9780751565355</isbn13>
+      <text_reviews_count type="integer">38042</text_reviews_count>
+      <uri>kca://book/amzn1.gr.book.v1.NTYPh5dfLSnVoTwZlCTGdw</uri>
+      <title>Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)</title>
+      <title_without_series>Harry Potter and the Cursed Child - Parts One and Two</title_without_series>
+      <image_url>https://images.gr-assets.com/books/1470082995m/29056083.jpg</image_url>
+      <small_image_url>https://images.gr-assets.com/books/1470082995s/29056083.jpg</small_image_url>
+      <large_image_url/>
+      <link>https://www.goodreads.com/book/show/29056083-harry-potter-and-the-cursed-child---parts-one-and-two</link>
+      <num_pages>343</num_pages>
+      <format>Hardcover</format>
+      <edition_information>Special Rehearsal Edition Script, UK</edition_information>
+      <publisher>Little, Brown</publisher>
+      <publication_day>31</publication_day>
+      <publication_year>2016</publication_year>
+      <publication_month>7</publication_month>
+      <average_rating>3.71</average_rating>
+      <ratings_count>487818</ratings_count>
+      <description>Based on an original new story by J.K. Rowling, Jack Thorne and John Tiffany, a new play by Jack Thorne, &lt;i&gt;Harry Potter and the Cursed Child&lt;/i&gt; is the eighth story in the Harry Potter series and the first official Harry
+        Potter story to be presented on stage. The play will receive its world premiere in London’s West End on July 30, 2016.&lt;br /&gt;&lt;br /&gt;It was always difficult being Harry Potter and it isn’t much easier now that he is an overworked employee of
+        the Ministry of Magic, a husband and father of three school-age children.&lt;br /&gt;&lt;br /&gt;While Harry grapples with a past that refuses to stay where it belongs, his youngest son Albus must struggle with the weight of a family legacy he never
+        wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: sometimes, darkness comes from unexpected places.</description>
+      <authors>
+        <author>
+          <id>5042201</id>
+          <name>John Tiffany</name>
+          <role>Adaptation</role>
+          <image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1470470327p5/5042201.jpg]]>
+          </image_url>
+          <small_image_url nophoto='false'>
+            <![CDATA[https://images.gr-assets.com/authors/1470470327p2/5042201.jpg]]>
+          </small_image_url>
+          <link>
+            <![CDATA[https://www.goodreads.com/author/show/5042201.John_Tiffany]]>
+          </link>
+          <average_rating>3.71</average_rating>
+          <ratings_count>488031</ratings_count>
+          <text_reviews_count>57839</text_reviews_count>
+        </author>
+      </authors>
+      <published>2016</published>
+      <work>
+        <id>48765776</id>
+        <uri>kca://work/amzn1.gr.work.v1.EFy6sOal2wcXh7AmESrXWA</uri>
+      </work>
+    </book>
+
+  </books>
+</GoodreadsResponse>

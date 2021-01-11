@@ -1,0 +1,23 @@
+.contentContainer {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.recentBooksContainer {
+  order: 2;
+}
+
+.profileInformation {
+  align-items: flex-start;
+}
+
+.profilePicture {
+  overflow: hidden;
+  height: 240px;
+  width: 175px;
+  object-fit: cover;
+}

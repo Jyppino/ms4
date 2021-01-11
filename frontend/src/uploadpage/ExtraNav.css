@@ -1,0 +1,16 @@
+.segmentHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 60px 0 40px
+}
+
+.goback {
+	color: #4183c4;
+  display: inline;
+  cursor: pointer;
+}
+
+.goback:hover {
+	text-decoration: underline;
+}

@@ -1,0 +1,27 @@
+.dropzone {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+	padding: 50px;
+
+}
+
+.dropzoneContent {
+    border-style : dashed;
+	border-width: 3px;
+    border-color : #95a5a6;
+    border-radius : 0px;
+    text-align : center;
+    margin : auto;
+    width : 40%;
+    height : 20em;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropzoneContent h3 {
+	color: #7f8c8d
+}

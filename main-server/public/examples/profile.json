@@ -1,0 +1,23 @@
+{
+  "id": 81596543,
+  "name": "MyShelf",
+  "link": "https://www.goodreads.com/user/show/81596543-myshelf",
+  "image": "https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png",
+  "shelves": [{
+    "id": 265667210,
+    "name": "read",
+    "count": 20
+  }, {
+    "id": 265667209,
+    "name": "currently-reading",
+    "count": 2
+  }, {
+    "id": 265667208,
+    "name": "to-read",
+    "count": 5
+  }, {
+    "id": 266337597,
+    "name": "personal",
+    "count": 13
+  }]
+}

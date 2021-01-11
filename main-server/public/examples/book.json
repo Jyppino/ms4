@@ -1,0 +1,315 @@
+{
+  "id": 3836,
+  "title": "Don Quixote",
+  "authors": [{
+      "id": 4037220,
+      "name": "Miguel de Cervantes Saavedra",
+      "role": "Author"
+    },
+    {
+      "id": 69766,
+      "name": "Roberto González Echevarría",
+      "role": "Introduction"
+    },
+    {
+      "id": 492304,
+      "name": "John Rutherford",
+      "role": "Translator, Introduction"
+    },
+    {
+      "id": 3186817,
+      "name": "Ernani Ssó",
+      "role": "translator"
+    }
+  ],
+  "link": "https://www.goodreads.com/book/show/3836.Don_Quixote",
+  "isbn": "0142437239",
+  "image_url": "https://images.gr-assets.com/books/1364958765m/3836.jpg",
+  "publication_year": 1615,
+  "description": "Don Quixote has become so entranced by reading chivalric romances, that he determines to become a knight-errant himself. In the company of his faithful squire, Sancho Panza, his exploits blossom in all sorts of wonderful ways. While Quixote's fancy often leads him astray – he tilts at windmills, imagining them to be giants – Sancho acquires cunning and a certain sagacity. Sane madman and wise fool, they roam the world together, and together they have haunted readers' imaginations for nearly four hundred years.<br /><br />With its experimental form and literary playfulness, <i>Don Quixote</i> generally has been recognized as the first modern novel. The book has had enormous influence on a host of writers, from Fielding and Sterne to Flaubert, Dickens, Melville, and Faulkner, who reread it once a year, \"just as some people read the Bible.\"",
+  "average_rating": 3.86,
+  "buy_links": [{
+      "name": "Amazon",
+      "link": "https://www.goodreads.com/book_link/follow/1"
+    },
+    {
+      "name": "Audible",
+      "link": "https://www.goodreads.com/book_link/follow/10"
+    },
+    {
+      "name": "Barnes &amp; Noble",
+      "link": "https://www.goodreads.com/book_link/follow/3"
+    },
+    {
+      "name": "Kobo",
+      "link": "https://www.goodreads.com/book_link/follow/1027"
+    },
+    {
+      "name": "Apple iBooks",
+      "link": "https://www.goodreads.com/book_link/follow/2102"
+    },
+    {
+      "name": "Google Play",
+      "link": "https://www.goodreads.com/book_link/follow/8036"
+    },
+    {
+      "name": "Abebooks",
+      "link": "https://www.goodreads.com/book_link/follow/4"
+    },
+    {
+      "name": "Book Depository",
+      "link": "https://www.goodreads.com/book_link/follow/882"
+    },
+    {
+      "name": "Indigo",
+      "link": "https://www.goodreads.com/book_link/follow/9"
+    },
+    {
+      "name": "Alibris",
+      "link": "https://www.goodreads.com/book_link/follow/5"
+    },
+    {
+      "name": "Better World Books",
+      "link": "https://www.goodreads.com/book_link/follow/107"
+    },
+    {
+      "name": "IndieBound",
+      "link": "https://www.goodreads.com/book_link/follow/7"
+    }
+  ],
+  "similar_books": [{
+      "id": 18266,
+      "title": "Gargantua and Pantagruel",
+      "authors": [{
+        "id": 11029,
+        "name": "François Rabelais",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/18266.Gargantua_and_Pantagruel",
+      "isbn": 140445501,
+      "image_url": "https://images.gr-assets.com/books/1336964698m/18266.jpg",
+      "average_rating": 3.71
+    },
+    {
+      "id": 18799,
+      "title": "Sodom and Gomorrah (In Search of Lost Time, #4)",
+      "authors": [{
+        "id": 233619,
+        "name": "Marcel Proust",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/18799.Sodom_and_Gomorrah",
+      "isbn": 143039318,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 4.37
+    },
+    {
+      "id": 30735,
+      "title": "The Complete Essays",
+      "authors": [{
+        "id": 17241,
+        "name": "Michel de Montaigne",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/30735.The_Complete_Essays",
+      "isbn": 140446044,
+      "image_url": "https://images.gr-assets.com/books/1408384184m/30735.jpg",
+      "average_rating": 4.24
+    },
+    {
+      "id": 14707,
+      "title": "Faust, Part Two",
+      "authors": [{
+        "id": 285217,
+        "name": "Johann Wolfgang von Goethe",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/14707.Faust_Part_Two",
+      "isbn": 192836366,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.74
+    },
+    {
+      "id": 19089,
+      "title": "Middlemarch",
+      "authors": [{
+        "id": 173,
+        "name": "George Eliot",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/19089.Middlemarch",
+      "isbn": 451529170,
+      "image_url": "https://images.gr-assets.com/books/1481264628m/19089.jpg",
+      "average_rating": 3.94
+    },
+    {
+      "id": 775366,
+      "title": "The Ambassadors",
+      "authors": [{
+        "id": 159,
+        "name": "Henry James",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/775366.The_Ambassadors",
+      "isbn": 140432337,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.65
+    },
+    {
+      "id": 916114,
+      "title": "La vida es sueño",
+      "authors": [{
+        "id": 227771,
+        "name": "Pedro Calderón de la Barca",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/916114.La_vida_es_sue_o",
+      "isbn": 8437600928,
+      "image_url": "https://images.gr-assets.com/books/1341266100m/916114.jpg",
+      "average_rating": 3.98
+    },
+    {
+      "id": 478645,
+      "title": "The Adventures of Roderick Random",
+      "authors": [{
+        "id": 5878896,
+        "name": "Tobias Smollett",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/478645.The_Adventures_of_Roderick_Random",
+      "isbn": 140433325,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.52
+    },
+    {
+      "id": 59144,
+      "title": "Cousin Bette",
+      "authors": [{
+        "id": 228089,
+        "name": "Honoré de Balzac",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/59144.Cousin_Bette",
+      "isbn": 375759077,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.84
+    },
+    {
+      "id": 99329,
+      "title": "The History of Tom Jones, a Foundling",
+      "authors": [{
+        "id": 17501,
+        "name": "Henry Fielding",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/99329.The_History_of_Tom_Jones_a_Foundling",
+      "isbn": 140436227,
+      "image_url": "https://images.gr-assets.com/books/1444450775m/99329.jpg",
+      "average_rating": 3.73
+    },
+    {
+      "id": 429024,
+      "title": "The Old Curiosity Shop",
+      "authors": [{
+        "id": 239579,
+        "name": "Charles Dickens",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/429024.The_Old_Curiosity_Shop",
+      "isbn": 140437428,
+      "image_url": "https://images.gr-assets.com/books/1332523435m/429024.jpg",
+      "average_rating": 3.76
+    },
+    {
+      "id": 63627,
+      "title": "El burlador de Sevilla",
+      "authors": [{
+        "id": 32312,
+        "name": "Tirso de Molina",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/63627.El_burlador_de_Sevilla",
+      "isbn": 8423918866,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.64
+    },
+    {
+      "id": 76527,
+      "title": "The Life and Opinions of Tristram Shandy, Gentleman",
+      "authors": [{
+        "id": 22796,
+        "name": "Laurence Sterne",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/76527.The_Life_and_Opinions_of_Tristram_Shandy_Gentleman",
+      "isbn": 141439777,
+      "image_url": "https://images.gr-assets.com/books/1403402384m/76527.jpg",
+      "average_rating": 3.74
+    },
+    {
+      "id": 751667,
+      "title": "Libro de Buen Amor",
+      "authors": [{
+        "id": 6543714,
+        "name": "Juan Ruiz (Arcipreste de Hita)",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/751667.Libro_de_Buen_Amor",
+      "isbn": 8489163480,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.54
+    },
+    {
+      "id": 125842,
+      "title": "A Bolt from the Blue and Other Essays",
+      "authors": [{
+        "id": 7305,
+        "name": "Mary McCarthy",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/125842.A_Bolt_from_the_Blue_and_Other_Essays",
+      "isbn": 1590170105,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.76
+    },
+    {
+      "id": 32812,
+      "title": "Paradiso (The Divine Comedy, #3)",
+      "authors": [{
+        "id": 5031312,
+        "name": "Dante Alighieri",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/32812.Paradiso",
+      "isbn": 140441050,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.95
+    },
+    {
+      "id": 38154,
+      "title": "Orlando Furioso",
+      "authors": [{
+        "id": 21460,
+        "name": "Ludovico Ariosto",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/38154.Orlando_Furioso",
+      "isbn": 192836773,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.99
+    },
+    {
+      "id": 18212,
+      "title": "Jacques the Fatalist",
+      "authors": [{
+        "id": 11004,
+        "name": "Denis Diderot",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/18212.Jacques_the_Fatalist",
+      "isbn": 192838741,
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "average_rating": 3.85
+    }
+  ]
+}

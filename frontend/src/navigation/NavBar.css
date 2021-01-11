@@ -1,0 +1,17 @@
+.topBar {
+    background: #1b1c1d;
+    height: 3.5em;
+}
+
+.pageContainer {
+    margin: 0 auto;
+	min-height: 95vh;
+}
+
+.pageHeader {
+	padding: 50px;
+}
+
+.content {
+    margin: 20px auto;
+}

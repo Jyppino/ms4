@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key>
+      <![CDATA[k2XjsbH1V1JBKR7LyAXg]]>
+    </key>
+    <method>
+      <![CDATA[shelf_list]]>
+    </method>
+  </Request>
+  <shelves start="1" end="4" total="4">
+    <user_shelf>
+      <id type="integer">265667210</id>
+      <name>read</name>
+      <book_count type="integer">20</book_count>
+      <exclusive_flag type="boolean">true</exclusive_flag>
+      <description nil="true"/>
+      <sort nil="true"/>
+      <order nil="true"/>
+      <per_page type="integer" nil="true"/>
+      <display_fields></display_fields>
+      <featured type="boolean">true</featured>
+      <recommend_for type="boolean">false</recommend_for>
+      <sticky type="boolean" nil="true"/>
+    </user_shelf>
+
+    <user_shelf>
+      <id type="integer">265667209</id>
+      <name>currently-reading</name>
+      <book_count type="integer">2</book_count>
+      <exclusive_flag type="boolean">true</exclusive_flag>
+      <description nil="true"/>
+      <sort nil="true"/>
+      <order nil="true"/>
+      <per_page type="integer" nil="true"/>
+      <display_fields></display_fields>
+      <featured type="boolean">false</featured>
+      <recommend_for type="boolean">false</recommend_for>
+      <sticky type="boolean" nil="true"/>
+    </user_shelf>
+
+    <user_shelf>
+      <id type="integer">265667208</id>
+      <name>to-read</name>
+      <book_count type="integer">5</book_count>
+      <exclusive_flag type="boolean">true</exclusive_flag>
+      <description nil="true"/>
+      <sort nil="true"/>
+      <order nil="true"/>
+      <per_page type="integer" nil="true"/>
+      <display_fields></display_fields>
+      <featured type="boolean">false</featured>
+      <recommend_for type="boolean">true</recommend_for>
+      <sticky type="boolean" nil="true"/>
+    </user_shelf>
+
+    <user_shelf>
+      <id type="integer">266337597</id>
+      <name>personal</name>
+      <book_count type="integer">13</book_count>
+      <exclusive_flag type="boolean">false</exclusive_flag>
+      <description nil="true"/>
+      <sort nil="true"/>
+      <order nil="true"/>
+      <per_page type="integer" nil="true"/>
+      <display_fields></display_fields>
+      <featured type="boolean">false</featured>
+      <recommend_for type="boolean">true</recommend_for>
+      <sticky type="boolean" nil="true"/>
+    </user_shelf>
+
+  </shelves>
+</GoodreadsResponse>

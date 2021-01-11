@@ -1,0 +1,116 @@
+<h1>MyShelf API Documentation</h1>
+<div>
+    <p>Welcome to the Application Programming Interface (API) of MyShelf. This page provides a short description of the functionality and routes accepted.</p>
+    <p>The MyShelf API consists of two components:</p>
+    <ul>
+        <li>Demo - live demo of the MyShelf book detection functionality</li>
+        <li>Authentication - handles authentication of the user through Goodreads OAUTH</li>
+        <li>API - handles requests and returns data in JSON format
+          <ul>
+            <li>GET Requests - section devoted to data retrieving</li>
+            <li>POST Requests - section devoted to data writing</li>
+          </ul>
+        </li>
+    </ul>
+</div>
+</br>
+
+<div>
+    <h3>Demo</h3>
+    <p>
+      The demo route can be used to test out the book detection functionality. It contains a direct link to the Tensorflow server. </br>
+      Please note that you have to be authenticted to use the demo. See the Authentication section.
+    </p>
+    <ul>
+      <li>/demo</li>
+        <dd>Book detection demo with the ability to upload a picture of your own book shelf<dd>
+    </ul>
+</div>
+</br>
+<div>
+    <h3>Authentication</h3>
+    <ul>
+      <li>/auth/login</li>
+        <dd>Login with Goodreads account using OAUTH. After callback the browser tab will either close or the user is redirected to this page</dd>
+      </br>
+      <li>/auth/logout</li>
+        <dd>User cookie/session is destroyed. User needs to re-authenticate for API access</dd>
+      </br>
+      <li>/auth/status</li>
+        <dd>Get authentication status, returns {"authenticated": true/false}</dd>
+    </ul>
+</div>
+</br>
+<div>
+    <h3>API</h3>
+    <p>Note:</p>
+    <ul>
+      <li>In order to access all API methods, the user has to be authenticated. See "Authentication" for more details.</li>
+      <li>If the user tries to access any API calls without being authenticated, the following message is returned: {"authenticated":false}</li>
+      <li>All API calls (except /api/image) are accessed by HTTP GET Requests, but for clarification purposes are divided into GET and POST requests</li>
+      <li>The responses vary per request (see examples), but are always in JSON format. If a request fails, the response adheres to the following layout: <i>{"statusCode":xxx,"message":"xxx"}</i></li>
+    </ul>
+
+    <u>GET Requests</u>
+    <ul>
+      <li>/api/profile</li>
+        <dd>Returns information on the user's profile (<a href="/examples/profile.json">example</a>)</dd>
+      </br>
+
+      <li>/api/search</li>
+        <dd>
+          Search for a book (<a href="/examples/search.json">example</a>) </br>
+          Parameters: q=&lt;QUERY&gt;, search[field]=&lt;EITHER 'title', 'author' OR 'all' (OPTIONAL, DEFAULT='all')&gt;
+        </dd>
+      </br>
+
+      <li>/api/book</li>
+        <dd>
+          Get information on a book (<a href="/examples/book.json">example</a>) </br>
+          Parameters: id=&lt;BOOK_ID&gt;
+        </dd>
+      </br>
+
+      <li>/api/shelves</li>
+        <dd>
+          Returns a list of all user's shelves (<a href="/examples/shelves.json">example</a>) </br>
+        </dd>
+      </br>
+
+      <li>/api/shelf</li>
+        <dd>
+          Returns an overview of the books in an user's shelf (<a href="/examples/shelf.json">example</a>) </br>
+          Parameters: shelf=&lt;SHELF_NAME&gt;
+        </dd>
+      </br>
+    </ul>
+
+    <u>POST Requests</u>
+    <p>
+      The JSON response of all POST API calls adhere to the following layout: <i>{"statusCode":201,"message":"Created"}</i>, </br>
+      where the "statusCode" and "message" attributes vary depending on the response received from Goodreads.
+    </p>
+    <ul>
+      <li>/api/add_book</li>
+        <dd>
+          Add a book to an user's shelf </br>
+          Parameters: name=&lt;SHELF_NAME&gt;, book_id=&lt;BOOK_ID&gt;
+        </dd>
+      </br>
+
+      <li>/api/remove_book</li>
+        <dd>
+          Remove a book from an user's shelf </br>
+          Parameters: name=&lt;SHELF_NAME&gt;, book_id=&lt;BOOK_ID&gt;
+        </dd>
+      </br>
+
+      <li>/api/image</li>
+        <dd>
+          Please note that this is the only API call that is accessed by a POST request. </br>
+          Returns location +  info on detected books from an uploaded image (<a href="/examples/image.json">example</a>) </br>
+          Accepts a JPEG image posted as a Multipart form.
+        </dd>
+      </br>
+    </ul>
+</div>

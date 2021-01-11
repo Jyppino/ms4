@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key>
+      <![CDATA[k2XjsbH1V1JBKR7LyAXg]]>
+    </key>
+    <method>
+      <![CDATA[search_index]]>
+    </method>
+  </Request>
+  <search>
+    <query>
+      <![CDATA[Don Quixote]]>
+    </query>
+    <results-start>1</results-start>
+    <results-end>20</results-end>
+    <total-results>958</total-results>
+    <source>Goodreads</source>
+    <query-time-seconds>0.24</query-time-seconds>
+    <results>
+      <work>
+        <id type="integer">121842</id>
+        <books_count type="integer">2035</books_count>
+        <ratings_count type="integer">169204</ratings_count>
+        <text_reviews_count type="integer">5950</text_reviews_count>
+        <original_publication_year type="integer">1615</original_publication_year>
+        <original_publication_month type="integer" nil="true"/>
+        <original_publication_day type="integer" nil="true"/>
+        <average_rating>3.86</average_rating>
+        <best_book type="Book">
+          <id type="integer">3836</id>
+          <title>Don Quixote</title>
+          <author>
+            <id type="integer">4037220</id>
+            <name>Miguel de Cervantes Saavedra</name>
+          </author>
+          <image_url>https://images.gr-assets.com/books/1364958765m/3836.jpg</image_url>
+          <small_image_url>https://images.gr-assets.com/books/1364958765s/3836.jpg</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">136328</id>
+        <books_count type="integer">10</books_count>
+        <ratings_count type="integer">559</ratings_count>
+        <text_reviews_count type="integer">39</text_reviews_count>
+        <original_publication_year type="integer">1986</original_publication_year>
+        <original_publication_month type="integer">1</original_publication_month>
+        <original_publication_day type="integer">1</original_publication_day>
+        <average_rating>3.76</average_rating>
+        <best_book type="Book">
+          <id type="integer">141358</id>
+          <title>Don Quixote (which was a dream)</title>
+          <author>
+            <id type="integer">6304</id>
+            <name>Kathy Acker</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">53009540</id>
+        <books_count type="integer">7</books_count>
+        <ratings_count type="integer">152</ratings_count>
+        <text_reviews_count type="integer">22</text_reviews_count>
+        <original_publication_year type="integer">2008</original_publication_year>
+        <original_publication_month type="integer">1</original_publication_month>
+        <original_publication_day type="integer">1</original_publication_day>
+        <average_rating>3.87</average_rating>
+        <best_book type="Book">
+          <id type="integer">6573743</id>
+          <title>Don Quixote</title>
+          <author>
+            <id type="integer">7279</id>
+            <name>Martin Jenkins</name>
+          </author>
+          <image_url>https://images.gr-assets.com/books/1399132595m/6573743.jpg</image_url>
+          <small_image_url>https://images.gr-assets.com/books/1399132595s/6573743.jpg</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">1090180</id>
+        <books_count type="integer">16</books_count>
+        <ratings_count type="integer">277</ratings_count>
+        <text_reviews_count type="integer">15</text_reviews_count>
+        <original_publication_year type="integer">1983</original_publication_year>
+        <original_publication_month type="integer" nil="true"/>
+        <original_publication_day type="integer" nil="true"/>
+        <average_rating>3.94</average_rating>
+        <best_book type="Book">
+          <id type="integer">3841</id>
+          <title>Lectures on Don Quixote</title>
+          <author>
+            <id type="integer">5152</id>
+            <name>Vladimir Nabokov</name>
+          </author>
+          <image_url>https://images.gr-assets.com/books/1478145975m/3841.jpg</image_url>
+          <small_image_url>https://images.gr-assets.com/books/1478145975s/3841.jpg</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">19700743</id>
+        <books_count type="integer">3</books_count>
+        <ratings_count type="integer">94</ratings_count>
+        <text_reviews_count type="integer">11</text_reviews_count>
+        <original_publication_year type="integer">2005</original_publication_year>
+        <original_publication_month type="integer" nil="true"/>
+        <original_publication_day type="integer" nil="true"/>
+        <average_rating>3.90</average_rating>
+        <best_book type="Book">
+          <id type="integer">175850</id>
+          <title>Don Quixote</title>
+          <author>
+            <id type="integer">102606</id>
+            <name>Henry Brook</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">806385</id>
+        <books_count type="integer">3</books_count>
+        <ratings_count type="integer">40</ratings_count>
+        <text_reviews_count type="integer">3</text_reviews_count>
+        <original_publication_year type="integer">1999</original_publication_year>
+        <original_publication_month type="integer">4</original_publication_month>
+        <original_publication_day type="integer">1</original_publication_day>
+        <average_rating>3.73</average_rating>
+        <best_book type="Book">
+          <id type="integer">820542</id>
+          <title>Don Quixote</title>
+          <author>
+            <id type="integer">42219</id>
+            <name>Michael Harrison</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">430850</id>
+        <books_count type="integer">3</books_count>
+        <ratings_count type="integer">795</ratings_count>
+        <text_reviews_count type="integer">5</text_reviews_count>
+        <original_publication_year type="integer">1996</original_publication_year>
+        <original_publication_month type="integer">4</original_publication_month>
+        <original_publication_day type="integer">1</original_publication_day>
+        <average_rating>3.68</average_rating>
+        <best_book type="Book">
+          <id type="integer">442063</id>
+          <title>Don Quixote (Wishbone Classics, #1)</title>
+          <author>
+            <id type="integer">20552</id>
+            <name>Michael Burgan</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">3040096</id>
+        <books_count type="integer">23</books_count>
+        <ratings_count type="integer">149</ratings_count>
+        <text_reviews_count type="integer">13</text_reviews_count>
+        <original_publication_year type="integer">1927</original_publication_year>
+        <original_publication_month type="integer" nil="true"/>
+        <original_publication_day type="integer" nil="true"/>
+        <average_rating>3.85</average_rating>
+        <best_book type="Book">
+          <id type="integer">175847</id>
+          <title>The Return of Don Quixote</title>
+          <author>
+            <id type="integer">7014283</id>
+            <name>G.K. Chesterton</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">48590459</id>
+        <books_count type="integer">4</books_count>
+        <ratings_count type="integer">292</ratings_count>
+        <text_reviews_count type="integer">49</text_reviews_count>
+        <original_publication_year type="integer">2013</original_publication_year>
+        <original_publication_month type="integer">9</original_publication_month>
+        <original_publication_day type="integer">5</original_publication_day>
+        <average_rating>4.13</average_rating>
+        <best_book type="Book">
+          <id type="integer">15842699</id>
+          <title>The Complete Don Quixote</title>
+          <author>
+            <id type="integer">148880</id>
+            <name>Rob Davis</name>
+          </author>
+          <image_url>https://images.gr-assets.com/books/1356352226m/15842699.jpg</image_url>
+          <small_image_url>https://images.gr-assets.com/books/1356352226s/15842699.jpg</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">17785663</id>
+        <books_count type="integer">3</books_count>
+        <ratings_count type="integer">200</ratings_count>
+        <text_reviews_count type="integer">11</text_reviews_count>
+        <original_publication_year type="integer">2011</original_publication_year>
+        <original_publication_month type="integer">9</original_publication_month>
+        <original_publication_day type="integer">1</original_publication_day>
+        <average_rating>3.88</average_rating>
+        <best_book type="Book">
+          <id type="integer">12670705</id>
+          <title>Don Quixote Volume One</title>
+          <author>
+            <id type="integer">148880</id>
+            <name>Rob Davis</name>
+          </author>
+          <image_url>https://images.gr-assets.com/books/1368798230m/12670705.jpg</image_url>
+          <small_image_url>https://images.gr-assets.com/books/1368798230s/12670705.jpg</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">48765567</id>
+        <books_count type="integer">6</books_count>
+        <ratings_count type="integer">152</ratings_count>
+        <text_reviews_count type="integer">9</text_reviews_count>
+        <original_publication_year type="integer">2015</original_publication_year>
+        <original_publication_month type="integer">1</original_publication_month>
+        <original_publication_day type="integer">1</original_publication_day>
+        <average_rating>4.59</average_rating>
+        <best_book type="Book">
+          <id type="integer">3843</id>
+          <title>Doré's Illustrations for Don Quixote</title>
+          <author>
+            <id type="integer">290375</id>
+            <name>Gustave Doré</name>
+          </author>
+          <image_url>https://images.gr-assets.com/books/1379393336m/3843.jpg</image_url>
+          <small_image_url>https://images.gr-assets.com/books/1379393336s/3843.jpg</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">3168385</id>
+        <books_count type="integer">6</books_count>
+        <ratings_count type="integer">129</ratings_count>
+        <text_reviews_count type="integer">20</text_reviews_count>
+        <original_publication_year type="integer">1966</original_publication_year>
+        <original_publication_month type="integer" nil="true"/>
+        <original_publication_day type="integer" nil="true"/>
+        <average_rating>4.38</average_rating>
+        <best_book type="Book">
+          <id type="integer">11921099</id>
+          <title>Don Quixote, U.S.A.</title>
+          <author>
+            <id type="integer">85500</id>
+            <name>Richard Powell</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">43127887</id>
+        <books_count type="integer">5</books_count>
+        <ratings_count type="integer">31</ratings_count>
+        <text_reviews_count type="integer">4</text_reviews_count>
+        <original_publication_year type="integer">1605</original_publication_year>
+        <original_publication_month type="integer" nil="true"/>
+        <original_publication_day type="integer" nil="true"/>
+        <average_rating>3.71</average_rating>
+        <best_book type="Book">
+          <id type="integer">175854</id>
+          <title>Don Quixote</title>
+          <author>
+            <id type="integer">29238</id>
+            <name>Marcia Williams</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">6706063</id>
+        <books_count type="integer">5</books_count>
+        <ratings_count type="integer">72</ratings_count>
+        <text_reviews_count type="integer">11</text_reviews_count>
+        <original_publication_year type="integer">1999</original_publication_year>
+        <original_publication_month type="integer">6</original_publication_month>
+        <original_publication_day type="integer">18</original_publication_day>
+        <average_rating>3.72</average_rating>
+        <best_book type="Book">
+          <id type="integer">9440</id>
+          <title>Adventures of Don Quixote</title>
+          <author>
+            <id type="integer">6173</id>
+            <name>Argentina Palacios</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">24027144</id>
+        <books_count type="integer">1</books_count>
+        <ratings_count type="integer">36</ratings_count>
+        <text_reviews_count type="integer">3</text_reviews_count>
+        <original_publication_year type="integer">2013</original_publication_year>
+        <original_publication_month type="integer">3</original_publication_month>
+        <original_publication_day type="integer">1</original_publication_day>
+        <average_rating>3.89</average_rating>
+        <best_book type="Book">
+          <id type="integer">17329084</id>
+          <title>Don Quixote, Volume Two (Don Quixote, #2)</title>
+          <author>
+            <id type="integer">148880</id>
+            <name>Rob Davis</name>
+          </author>
+          <image_url>https://images.gr-assets.com/books/1368798084m/17329084.jpg</image_url>
+          <small_image_url>https://images.gr-assets.com/books/1368798084s/17329084.jpg</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">7572</id>
+        <books_count type="integer">1</books_count>
+        <ratings_count type="integer">80</ratings_count>
+        <text_reviews_count type="integer">23</text_reviews_count>
+        <original_publication_year type="integer">2004</original_publication_year>
+        <original_publication_month type="integer">4</original_publication_month>
+        <original_publication_day type="integer">2</original_publication_day>
+        <average_rating>3.70</average_rating>
+        <best_book type="Book">
+          <id type="integer">3839</id>
+          <title>Don Quixote and the Windmills</title>
+          <author>
+            <id type="integer">2602</id>
+            <name>Eric A. Kimmel</name>
+          </author>
+          <image_url>https://images.gr-assets.com/books/1311984498m/3839.jpg</image_url>
+          <small_image_url>https://images.gr-assets.com/books/1311984498s/3839.jpg</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">17237081</id>
+        <books_count type="integer">1</books_count>
+        <ratings_count type="integer">71</ratings_count>
+        <text_reviews_count type="integer">11</text_reviews_count>
+        <original_publication_year type="integer">2011</original_publication_year>
+        <original_publication_month type="integer" nil="true"/>
+        <original_publication_day type="integer" nil="true"/>
+        <average_rating>3.83</average_rating>
+        <best_book type="Book">
+          <id type="integer">12262133</id>
+          <title>Don Quixote: Kumpulan Sajak</title>
+          <author>
+            <id type="integer">617860</id>
+            <name>Goenawan Mohamad</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">368612</id>
+        <books_count type="integer">6</books_count>
+        <ratings_count type="integer">117</ratings_count>
+        <text_reviews_count type="integer">9</text_reviews_count>
+        <original_publication_year type="integer">1999</original_publication_year>
+        <original_publication_month type="integer">1</original_publication_month>
+        <original_publication_day type="integer">1</original_publication_day>
+        <average_rating>3.26</average_rating>
+        <best_book type="Book">
+          <id type="integer">589280</id>
+          <title>The Last Knight: An Introduction to Don Quixote</title>
+          <author>
+            <id type="integer">1642</id>
+            <name>Will Eisner</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">335673</id>
+        <books_count type="integer">5</books_count>
+        <ratings_count type="integer">40</ratings_count>
+        <text_reviews_count type="integer">5</text_reviews_count>
+        <original_publication_year type="integer">2002</original_publication_year>
+        <original_publication_month type="integer">8</original_publication_month>
+        <original_publication_day type="integer">5</original_publication_day>
+        <average_rating>3.42</average_rating>
+        <best_book type="Book">
+          <id type="integer">345361</id>
+          <title>Don Quixote's Delusions</title>
+          <author>
+            <id type="integer">153528</id>
+            <name>Miranda France</name>
+          </author>
+          <image_url>https://images.gr-assets.com/books/1408930219m/345361.jpg</image_url>
+          <small_image_url>https://images.gr-assets.com/books/1408930219s/345361.jpg</small_image_url>
+        </best_book>
+      </work>
+
+      <work>
+        <id type="integer">3849962</id>
+        <books_count type="integer">8</books_count>
+        <ratings_count type="integer">23</ratings_count>
+        <text_reviews_count type="integer">2</text_reviews_count>
+        <original_publication_year type="integer">1860</original_publication_year>
+        <original_publication_month type="integer" nil="true"/>
+        <original_publication_day type="integer" nil="true"/>
+        <average_rating>3.74</average_rating>
+        <best_book type="Book">
+          <id type="integer">3805755</id>
+          <title>Hamlet And Don Quixote: An Essay</title>
+          <author>
+            <id type="integer">410680</id>
+            <name>Ivan Turgenev</name>
+          </author>
+          <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+          <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+        </best_book>
+      </work>
+
+    </results>
+  </search>
+
+</GoodreadsResponse>

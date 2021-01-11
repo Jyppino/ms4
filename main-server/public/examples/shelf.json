@@ -1,0 +1,224 @@
+{
+  "numpages": "2",
+  "books": [{
+      "id": 11127,
+      "title": "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+      "authors": [{
+        "id": 1069006,
+        "name": "C.S. Lewis",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia",
+      "image_url": "https://images.gr-assets.com/books/1449868701m/11127.jpg"
+    },
+    {
+      "id": 434631,
+      "title": "Freak Show",
+      "authors": [{
+        "id": 44927,
+        "name": "James St. James",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/434631.Freak_Show",
+      "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+    },
+    {
+      "id": 18079719,
+      "title": "Grasshopper Jungle",
+      "authors": [{
+        "id": 1383409,
+        "name": "Andrew Smith",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/18079719-grasshopper-jungle",
+      "image_url": "https://images.gr-assets.com/books/1373059909m/18079719.jpg"
+    },
+    {
+      "id": 23230,
+      "title": "Naomi and Ely's No Kiss List",
+      "authors": [{
+        "id": 13139,
+        "name": "Rachel Cohn",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/23230.Naomi_and_Ely_s_No_Kiss_List",
+      "image_url": "https://images.gr-assets.com/books/1320498121m/23230.jpg"
+    },
+    {
+      "id": 22896551,
+      "title": "None of the Above",
+      "authors": [{
+        "id": 7374721,
+        "name": "I.W. Gregorio",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/22896551-none-of-the-above",
+      "image_url": "https://images.gr-assets.com/books/1412996409m/22896551.jpg"
+    },
+    {
+      "id": 6567017,
+      "title": "Will Grayson, Will Grayson (Will Grayson, Will Grayson, #1)",
+      "authors": [{
+        "id": 1406384,
+        "name": "John Green",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/6567017-will-grayson-will-grayson",
+      "image_url": "https://images.gr-assets.com/books/1368393890m/6567017.jpg"
+    },
+    {
+      "id": 35832073,
+      "title": "Calypso",
+      "authors": [{
+        "id": 2849,
+        "name": "David Sedaris",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/35832073-calypso",
+      "image_url": "https://images.gr-assets.com/books/1526666936m/35832073.jpg"
+    },
+    {
+      "id": 19547856,
+      "title": "Simon vs. the Homo Sapiens Agenda (Creekwood, #1)",
+      "authors": [{
+        "id": 7579036,
+        "name": "Becky Albertalli",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/19547856-simon-vs-the-homo-sapiens-agenda",
+      "image_url": "https://images.gr-assets.com/books/1402915678m/19547856.jpg"
+    },
+    {
+      "id": 4948,
+      "title": "The Very Hungry Caterpillar",
+      "authors": [{
+        "id": 3362,
+        "name": "Eric Carle",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/4948.The_Very_Hungry_Caterpillar",
+      "image_url": "https://images.gr-assets.com/books/1517550266m/4948.jpg"
+    },
+    {
+      "id": 6310,
+      "title": "Charlie and the Chocolate Factory (Charlie Bucket, #1)",
+      "authors": [{
+        "id": 4273,
+        "name": "Roald Dahl",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/6310.Charlie_and_the_Chocolate_Factory",
+      "image_url": "https://images.gr-assets.com/books/1309211401m/6310.jpg"
+    },
+    {
+      "id": 12999306,
+      "title": "The Goddess Hunt (Goddess Test, #1.5)",
+      "authors": [{
+        "id": 767317,
+        "name": "Aimee Carter",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/12999306-the-goddess-hunt",
+      "image_url": "https://images.gr-assets.com/books/1345545101m/12999306.jpg"
+    },
+    {
+      "id": 9736930,
+      "title": "Before I Go to Sleep",
+      "authors": [{
+        "id": 4470653,
+        "name": "S.J. Watson",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/9736930-before-i-go-to-sleep",
+      "image_url": "https://images.gr-assets.com/books/1358353512m/9736930.jpg"
+    },
+    {
+      "id": 6582304,
+      "title": "Die Werwölfe",
+      "authors": [{
+        "id": 1332445,
+        "name": "Christoph Hardebusch",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/6582304-die-werw-lfe",
+      "image_url": "https://images.gr-assets.com/books/1327418360m/6582304.jpg"
+    },
+    {
+      "id": 13326831,
+      "title": "The Testing (The Testing, #1)",
+      "authors": [{
+        "id": 4027380,
+        "name": "Joelle Charbonneau",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/13326831-the-testing",
+      "image_url": "https://images.gr-assets.com/books/1363452191m/13326831.jpg"
+    },
+    {
+      "id": 88413,
+      "title": "De ontdekking van de hemel",
+      "authors": [{
+        "id": 44694,
+        "name": "Harry Mulisch",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/88413.De_ontdekking_van_de_hemel",
+      "image_url": "https://images.gr-assets.com/books/1524989153m/88413.jpg"
+    },
+    {
+      "id": 7235533,
+      "title": "The Way of Kings (The Stormlight Archive, #1)",
+      "authors": [{
+        "id": 38550,
+        "name": "Brandon Sanderson",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/7235533-the-way-of-kings",
+      "image_url": "https://images.gr-assets.com/books/1388184640m/7235533.jpg"
+    },
+    {
+      "id": 2854614,
+      "title": "Pluk van de Petteflet",
+      "authors": [{
+        "id": 615182,
+        "name": "Annie M.G. Schmidt",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/2854614-pluk-van-de-petteflet",
+      "image_url": "https://images.gr-assets.com/books/1203428355m/2854614.jpg"
+    },
+    {
+      "id": 81992,
+      "title": "Singularity Sky (Eschaton, #1)",
+      "authors": [{
+        "id": 8794,
+        "name": "Charles Stross",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/81992.Singularity_Sky",
+      "image_url": "https://images.gr-assets.com/books/1446324638m/81992.jpg"
+    },
+    {
+      "id": 311196,
+      "title": "Frederica",
+      "authors": [{
+        "id": 18067,
+        "name": "Georgette Heyer",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/311196.Frederica",
+      "image_url": "https://images.gr-assets.com/books/1395082866m/311196.jpg"
+    },
+    {
+      "id": 29056083,
+      "title": "Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)",
+      "authors": [{
+        "id": 5042201,
+        "name": "John Tiffany",
+        "role": "Author"
+      }],
+      "link": "https://www.goodreads.com/book/show/29056083-harry-potter-and-the-cursed-child---parts-one-and-two",
+      "image_url": "https://images.gr-assets.com/books/1470082995m/29056083.jpg"
+    }
+  ]
+}
